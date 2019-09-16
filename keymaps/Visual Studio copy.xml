@@ -1,0 +1,40 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.Log.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
