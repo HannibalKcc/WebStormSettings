@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="vue" type="HTML" />
+      <mapping ext="mk" type="Native" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="compareIndex" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develpoment.local" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
