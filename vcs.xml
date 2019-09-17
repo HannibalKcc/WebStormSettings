@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/HannibalKcc/puppeteerTest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ifreegroup.cn:3000" />
+          <option name="userName" value="zhuhuaruicn@ifreegroup.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\资料与文件\H5代码\杂\vue文件\vueTest" />
