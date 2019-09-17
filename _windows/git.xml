@@ -1,6 +1,5 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="D:\Git\Git\bin\git.exe" />
-    <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
+    <option name="myPathToGit" value="D:\WorkSoftware\Git\bin\git.exe" />
   </component>
 </application>
