@@ -6,6 +6,7 @@
       <mapping pattern="aliasGuide" type="JavaScript" />
       <mapping ext="mk" type="Native" />
       <mapping pattern="compareIndex" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mtrack" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.mogo" type="PLAIN_TEXT" />
       <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
