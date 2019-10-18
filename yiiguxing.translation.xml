@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interop" />
       <item value="unterminated statement" />
       <item value="contact us company Indonesia" />
       <item value="eighth" />
@@ -22,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
