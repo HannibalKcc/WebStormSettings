@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balloon)" />
       <item value="John Doe" />
       <item value="Exist" />
       <item value="Forget" />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
