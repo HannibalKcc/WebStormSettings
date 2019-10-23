@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="John Doe" />
       <item value="Exist" />
       <item value="Forget" />
       <item value="参与" />
@@ -32,6 +33,7 @@
       <map>
         <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="17" />
+        <entry key="DUTCH" value="1" />
       </map>
     </option>
   </component>
