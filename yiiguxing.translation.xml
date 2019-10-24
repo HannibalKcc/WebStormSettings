@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参与" />
       <item value="provider" />
       <item value="balloon)" />
       <item value="John Doe" />
       <item value="Exist" />
       <item value="Forget" />
-      <item value="参与" />
       <item value="Partic" />
       <item value="Part" />
       <item value="参与须知" />
@@ -33,8 +33,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
