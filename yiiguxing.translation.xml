@@ -1,0 +1,50 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="填充者" />
+      <item value="Sign Up" />
+      <item value="Sign In" />
+      <item value="活动" />
+      <item value="消极" />
+      <item value="积极" />
+      <item value="Industry" />
+      <item value="industry" />
+      <item value="参与" />
+      <item value="provider" />
+      <item value="balloon)" />
+      <item value="John Doe" />
+      <item value="Exist" />
+      <item value="Forget" />
+      <item value="Partic" />
+      <item value="Part" />
+      <item value="参与须知" />
+      <item value="活动介绍" />
+      <item value="活动须知" />
+      <item value="interop" />
+      <item value="unterminated statement" />
+      <item value="contact us company Indonesia" />
+      <item value="eighth" />
+      <item value="notice" />
+      <item value="responsive" />
+      <item value="intro" />
+      <item value="anchors" />
+      <item value="divider" />
+      <item value="redundant" />
+      <item value="redeem" />
+      <item value="退改" />
+      <item value="prompt" />
+      <item value="Acent" />
+      <item value="purple" />
+      <item value="tradings" />
+      <item value="industries" />
+      <item value="stamp" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="DUTCH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
