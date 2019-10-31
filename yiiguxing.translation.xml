@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="industry Txt" />
       <item value="revision" />
       <item value="填充者" />
       <item value="Sign Up" />
@@ -43,7 +44,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
