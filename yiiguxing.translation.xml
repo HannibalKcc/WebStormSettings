@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="storage" />
       <item value="unarchive" />
       <item value="hydrating" />
       <item value="Provide" />
