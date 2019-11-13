@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="好评率" />
+      <item value="好评" />
+      <item value="评价" />
+      <item value="score" />
       <item value="storage" />
       <item value="unarchive" />
       <item value="hydrating" />
@@ -48,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
