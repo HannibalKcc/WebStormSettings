@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="banner" />
       <item value="THINGS TO DO" />
       <item value="好评率" />
       <item value="好评" />
@@ -53,7 +54,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
