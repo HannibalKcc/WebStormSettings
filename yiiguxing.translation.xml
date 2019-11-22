@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suppress" />
       <item value="推荐" />
       <item value="vector" />
       <item value="queto" />
@@ -50,11 +51,10 @@
       <item value="prompt" />
       <item value="Acent" />
       <item value="purple" />
-      <item value="tradings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="33" />
         <entry key="DUTCH" value="1" />
       </map>
