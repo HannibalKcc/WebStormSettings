@@ -6,17 +6,17 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.mtrack" type="PLAIN_TEXT" />
       <mapping pattern="compareIndex" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mtrack" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
       <mapping pattern="PersonCenter" type="PLAIN_TEXT" />
       <mapping pattern=".env.develpoment.local" type="PLAIN_TEXT" />
+      <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.mogo" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="m-track" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
