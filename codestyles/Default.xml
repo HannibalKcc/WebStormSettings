@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <CssCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
