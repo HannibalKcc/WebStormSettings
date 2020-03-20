@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
+      <item value="interop" />
+      <item value="Wildcard" />
+      <item value="compatible with the legacy importHTML api" />
+      <item value="get Embed HTML" />
       <item value="Reference Error" />
       <item value="Syntax Error" />
       <item value="currency Types" />
@@ -46,16 +51,11 @@
       <item value="industry" />
       <item value="参与" />
       <item value="provider" />
-      <item value="balloon)" />
-      <item value="John Doe" />
-      <item value="Exist" />
-      <item value="Forget" />
-      <item value="Partic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
