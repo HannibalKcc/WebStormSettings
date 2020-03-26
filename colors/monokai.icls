@@ -181,6 +181,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="f0" />
+        <option name="BACKGROUND" value="3c3f41" />
         <option name="EFFECT_COLOR" value="ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -631,6 +632,11 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="736f5c" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e0" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
