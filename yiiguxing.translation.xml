@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="soildus" />
       <item value=" nest children between the opening and closing tags " />
       <item value="suppress" />
       <item value="fallback" />
@@ -50,7 +51,6 @@
       <item value="填充者" />
       <item value="Sign Up" />
       <item value="Sign In" />
-      <item value="活动" />
     </histories>
     <option name="languageScores">
       <map>
