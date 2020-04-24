@@ -1,0 +1,8 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="FileStructurePopup" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="UML.ShowStructure" />
+</keymap>
