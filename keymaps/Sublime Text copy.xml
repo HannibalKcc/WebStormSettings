@@ -1,12 +1,38 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="FileStructurePopup" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt subtract" />
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl r" />
