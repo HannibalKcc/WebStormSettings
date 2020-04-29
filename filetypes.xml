@@ -7,9 +7,9 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.mtrack" type="PLAIN_TEXT" />
       <mapping pattern="compareIndex" type="PLAIN_TEXT" />
+      <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
       <mapping pattern="PersonCenter" type="PLAIN_TEXT" />
       <mapping pattern=".env.develpoment.local" type="PLAIN_TEXT" />
-      <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.mogo" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
