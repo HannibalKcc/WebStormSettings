@@ -49,11 +49,15 @@
     <mouse-shortcut keystroke="shift control button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoSymbol" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Replace" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
