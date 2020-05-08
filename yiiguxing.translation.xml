@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customize Component" />
+      <item value="cusomizeComponent" />
+      <item value="定制" />
+      <item value="客制" />
+      <item value="custom" />
       <item value="caret" />
       <item value="顺序" />
       <item value="front" />
@@ -46,16 +51,11 @@
       <item value="queto" />
       <item value="banner" />
       <item value="THINGS TO DO" />
-      <item value="好评率" />
-      <item value="好评" />
-      <item value="评价" />
-      <item value="score" />
-      <item value="storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
