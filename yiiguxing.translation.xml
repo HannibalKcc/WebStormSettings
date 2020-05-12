@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优惠组合" />
+      <item value="combination" />
+      <item value="assemble" />
+      <item value="组合" />
       <item value="大流量包" />
       <item value="自选" />
       <item value="customize Component" />
@@ -47,15 +51,11 @@
       <item value="悬浮" />
       <item value="警告" />
       <item value="第二" />
-      <item value="particle" />
-      <item value="推荐" />
-      <item value="vector" />
-      <item value="queto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
