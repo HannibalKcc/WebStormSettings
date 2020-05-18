@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="售后" />
+      <item value="收货" />
+      <item value="Dliver" />
+      <item value="Dlive" />
+      <item value="待发货" />
       <item value="优惠" />
       <item value="填充者" />
       <item value="wrap" />
@@ -46,16 +51,11 @@
       <item value="Stand" />
       <item value="stand" />
       <item value="营销" />
-      <item value="营销中台" />
-      <item value="创造" />
-      <item value="genero" />
-      <item value="生成器" />
-      <item value="generotor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
