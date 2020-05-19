@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model" />
+      <item value="module" />
+      <item value="modal" />
       <item value="gender" />
       <item value="不在目的地" />
       <item value="套餐" />
@@ -48,9 +51,6 @@
       <item value="compatible with the legacy importHTML api" />
       <item value="get Embed HTML" />
       <item value="Reference Error" />
-      <item value="Syntax Error" />
-      <item value="currency Types" />
-      <item value="替身" />
     </histories>
     <option name="languageScores">
       <map>
