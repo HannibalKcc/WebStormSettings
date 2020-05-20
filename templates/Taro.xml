@@ -1,0 +1,7 @@
+<templateSet group="Taro">
+  <template name="View" value="&lt;View className='$END$'&gt;&lt;/View&gt;" description="获取一个合法的 View 标签" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
