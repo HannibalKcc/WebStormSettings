@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
       <item value="model" />
       <item value="module" />
       <item value="modal" />
@@ -50,12 +51,11 @@
       <item value="Wildcard" />
       <item value="compatible with the legacy importHTML api" />
       <item value="get Embed HTML" />
-      <item value="Reference Error" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
