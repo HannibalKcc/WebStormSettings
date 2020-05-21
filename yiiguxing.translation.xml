@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Combination" />
+      <item value="cur Combination Id" />
       <item value="唯一" />
       <item value="验证码" />
       <item value="解析" />
@@ -49,13 +51,11 @@
       <item value="upgrade" />
       <item value="addon" />
       <item value="external" />
-      <item value="interop" />
-      <item value="Wildcard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
