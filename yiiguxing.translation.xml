@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证码" />
       <item value="解析" />
       <item value="model" />
       <item value="module" />
@@ -50,7 +51,6 @@
       <item value="interop" />
       <item value="Wildcard" />
       <item value="compatible with the legacy importHTML api" />
-      <item value="get Embed HTML" />
     </histories>
     <option name="languageScores">
       <map>
