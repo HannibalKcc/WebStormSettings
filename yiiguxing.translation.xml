@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lift" />
       <item value="// HACK: Since TypeScript inherits static properties too, we have to // fight against TypeScript here so Subject can have a different static create signature" />
       <item value="connect" />
       <item value="inspection" />
@@ -50,11 +51,10 @@
       <item value="顺序" />
       <item value="front" />
       <item value="established" />
-      <item value="noop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
