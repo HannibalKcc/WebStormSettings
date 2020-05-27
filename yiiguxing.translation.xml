@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
       <item value="快递" />
       <item value="物流" />
       <item value="物流信息" />
@@ -50,11 +51,10 @@
       <item value="noop" />
       <item value="qualified" />
       <item value="qualif" />
-      <item value="shallow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="ENGLISH" value="65" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
