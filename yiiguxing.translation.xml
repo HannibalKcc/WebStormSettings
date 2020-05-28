@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="装饰" />
+      <item value="懂得" />
+      <item value="了解" />
+      <item value="流程" />
+      <item value="优势" />
       <item value="lift" />
       <item value="// HACK: Since TypeScript inherits static properties too, we have to // fight against TypeScript here so Subject can have a different static create signature" />
       <item value="connect" />
@@ -46,16 +51,11 @@
       <item value="cusomizeComponent" />
       <item value="定制" />
       <item value="客制" />
-      <item value="custom" />
-      <item value="caret" />
-      <item value="顺序" />
-      <item value="front" />
-      <item value="established" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
