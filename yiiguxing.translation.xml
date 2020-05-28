@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tittle" />
+      <item value="title" />
       <item value="advantage" />
       <item value="cloud" />
       <item value="装饰" />
@@ -49,8 +51,6 @@
       <item value="组合" />
       <item value="大流量包" />
       <item value="自选" />
-      <item value="customize Component" />
-      <item value="cusomizeComponent" />
     </histories>
     <option name="languageScores">
       <map>
