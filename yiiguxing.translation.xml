@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nightmare" />
+      <item value="验证" />
+      <item value="verifi" />
+      <item value="verufi" />
+      <item value="verufu" />
+      <item value="验证码" />
       <item value="tittle" />
       <item value="title" />
       <item value="advantage" />
@@ -27,7 +33,6 @@
       <item value="Combination" />
       <item value="cur Combination Id" />
       <item value="唯一" />
-      <item value="验证码" />
       <item value="解析" />
       <item value="model" />
       <item value="module" />
@@ -46,16 +51,11 @@
       <item value="operate" />
       <item value="交互" />
       <item value="优惠组合" />
-      <item value="combination" />
-      <item value="assemble" />
-      <item value="组合" />
-      <item value="大流量包" />
-      <item value="自选" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
