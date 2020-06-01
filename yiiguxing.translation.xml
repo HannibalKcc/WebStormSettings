@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单价" />
       <item value="nightmare" />
       <item value="验证" />
       <item value="verifi" />
@@ -50,12 +51,11 @@
       <item value="加工" />
       <item value="operate" />
       <item value="交互" />
-      <item value="优惠组合" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
