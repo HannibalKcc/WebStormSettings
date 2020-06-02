@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill" />
       <item value="corner" />
       <item value="单价" />
       <item value="nightmare" />
@@ -50,7 +51,6 @@
       <item value="优惠" />
       <item value="wrap" />
       <item value="加工" />
-      <item value="operate" />
     </histories>
     <option name="languageScores">
       <map>
