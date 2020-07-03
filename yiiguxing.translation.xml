@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flushed" />
+      <item value="flushing" />
+      <item value="queue" />
+      <item value="flush" />
+      <item value="istanbul" />
+      <item value="istanbul ignore else" />
+      <item value="patreon" />
       <item value="format" />
       <item value="no-restricted-globals" />
       <item value="alone" />
@@ -44,18 +51,11 @@
       <item value="解析" />
       <item value="model" />
       <item value="module" />
-      <item value="modal" />
-      <item value="gender" />
-      <item value="不在目的地" />
-      <item value="套餐" />
-      <item value="售后" />
-      <item value="收货" />
-      <item value="Dliver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
