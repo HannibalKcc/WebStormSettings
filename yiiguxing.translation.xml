@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reactivate" />
+      <item value="is Comment" />
+      <item value="hydrating" />
+      <item value="is Primitive" />
       <item value="flushed" />
       <item value="flushing" />
       <item value="queue" />
@@ -47,15 +51,11 @@
       <item value="运营商" />
       <item value="Combination" />
       <item value="cur Combination Id" />
-      <item value="唯一" />
-      <item value="解析" />
-      <item value="model" />
-      <item value="module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
