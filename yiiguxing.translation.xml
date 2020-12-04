@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hydrating" />
       <item value="reactivate" />
       <item value="is Comment" />
-      <item value="hydrating" />
       <item value="is Primitive" />
       <item value="flushed" />
       <item value="flushing" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
