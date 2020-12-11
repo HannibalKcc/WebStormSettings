@@ -11,6 +11,9 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
@@ -30,10 +33,6 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode" />
-  <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="shift insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
-  </action>
   <action id="EditorPreviousWordInDifferentHumpsMode" />
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl equals" />
@@ -54,6 +53,11 @@
   <action id="GotoSymbol" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
