@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="untie" />
       <item value="接收" />
       <item value="接" />
       <item value="接受" />
@@ -53,12 +54,11 @@
       <item value="物流信息" />
       <item value="前置" />
       <item value="字符实体" />
-      <item value="填充者" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
