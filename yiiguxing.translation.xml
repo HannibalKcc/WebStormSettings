@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="物流" />
       <item value="续期&#10;" />
       <item value="untie" />
       <item value="接收" />
@@ -51,7 +52,6 @@
       <item value="connect" />
       <item value="inspection" />
       <item value="快递" />
-      <item value="物流" />
       <item value="物流信息" />
       <item value="前置" />
     </histories>
