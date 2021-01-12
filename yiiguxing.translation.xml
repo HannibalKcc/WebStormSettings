@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="vendor" />
+      <item value="vendors" />
+      <item value="ve" />
+      <item value="parallel" />
+      <item value="concurrently" />
       <item value="daunting" />
       <item value="daunt" />
       <item value="Receipt" />
@@ -49,16 +54,11 @@
       <item value="懂得" />
       <item value="了解" />
       <item value="流程" />
-      <item value="优势" />
-      <item value="lift" />
-      <item value="// HACK: Since TypeScript inherits static properties too, we have to // fight against TypeScript here so Subject can have a different static create signature" />
-      <item value="connect" />
-      <item value="inspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
