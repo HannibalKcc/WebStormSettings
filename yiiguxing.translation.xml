@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="物流" />
       <item value="currency" />
       <item value="vendor" />
       <item value="vendors" />
@@ -13,7 +14,6 @@
       <item value="daunting" />
       <item value="daunt" />
       <item value="Receipt" />
-      <item value="物流" />
       <item value="续期&#10;" />
       <item value="untie" />
       <item value="接收" />
