@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="customer" />
       <item value="完整" />
       <item value="物流" />
       <item value="currency" />
@@ -53,12 +54,11 @@
       <item value="advantage" />
       <item value="cloud" />
       <item value="装饰" />
-      <item value="懂得" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
