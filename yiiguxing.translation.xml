@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="dilemma" />
+      <item value="di" />
+      <item value="recursively" />
+      <item value="recur" />
+      <item value="re" />
+      <item value="dumb" />
+      <item value="dumb&#10;" />
+      <item value="dum" />
+      <item value="interpolation" />
+      <item value="inter" />
+      <item value="site:https://juejin.c" />
+      <item value="bottleneck" />
+      <item value="bottle" />
+      <item value="bo" />
       <item value="虚拟" />
       <item value="虚拟商品" />
       <item value="Validate" />
@@ -40,20 +54,6 @@
       <item value="patreon" />
       <item value="format" />
       <item value="no-restricted-globals" />
-      <item value="alone" />
-      <item value="menu" />
-      <item value="三角形" />
-      <item value="fill" />
-      <item value="corner" />
-      <item value="单价" />
-      <item value="nightmare" />
-      <item value="验证" />
-      <item value="verifi" />
-      <item value="verufi" />
-      <item value="verufu" />
-      <item value="验证码" />
-      <item value="tittle" />
-      <item value="title" />
     </histories>
     <option name="languageScores">
       <map>
