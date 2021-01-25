@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="category" />
+      <item value="categoriy" />
+      <item value="categorie" />
       <item value="dilemma" />
       <item value="di" />
       <item value="recursively" />
@@ -51,9 +54,6 @@
       <item value="flush" />
       <item value="istanbul" />
       <item value="istanbul ignore else" />
-      <item value="patreon" />
-      <item value="format" />
-      <item value="no-restricted-globals" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611044737858" />
+    <option name="lastTrimTime" value="1611545638546" />
   </component>
 </application>
