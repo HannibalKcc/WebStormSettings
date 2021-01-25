@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="senior" />
+      <item value="sen" />
+      <item value="se" />
       <item value="field" />
       <item value="category" />
       <item value="categoriy" />
@@ -51,9 +54,6 @@
       <item value="is Primitive" />
       <item value="flushed" />
       <item value="flushing" />
-      <item value="queue" />
-      <item value="flush" />
-      <item value="istanbul" />
     </histories>
     <option name="languageScores">
       <map>
