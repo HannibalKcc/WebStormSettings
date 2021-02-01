@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="trash" />
       <item value="cascader" />
       <item value="Valid" />
       <item value="实体商品" />
@@ -53,12 +54,11 @@
       <item value="vulnerabilities" />
       <item value="VUE APP BUILD TARGET MODULE" />
       <item value="hydrating" />
-      <item value="reactivate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611545638546" />
+    <option name="lastTrimTime" value="1612162852001" />
   </component>
 </application>
