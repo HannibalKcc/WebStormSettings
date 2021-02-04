@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="spinner" />
       <item value="vendors&#10;" />
       <item value="ver" />
       <item value="harmony" />
@@ -53,7 +54,6 @@
       <item value="Receipt" />
       <item value="续期&#10;" />
       <item value="untie" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
