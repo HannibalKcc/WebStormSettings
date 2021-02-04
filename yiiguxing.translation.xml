@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="harmony" />
       <item value="northeast" />
       <item value="southwestnortheast" />
       <item value="southwest" />
@@ -53,7 +54,6 @@
       <item value="接收" />
       <item value="接" />
       <item value="接受" />
-      <item value="preserve" />
     </histories>
     <option name="languageScores">
       <map>
