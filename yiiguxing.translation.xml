@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="回文" />
+      <item value="回文字符串" />
       <item value="integrity" />
       <item value="erbium&#10;" />
       <item value="erbium" />
@@ -52,8 +54,6 @@
       <item value="dumb" />
       <item value="dumb&#10;" />
       <item value="dum" />
-      <item value="interpolation" />
-      <item value="inter" />
     </histories>
     <option name="languageScores">
       <map>
