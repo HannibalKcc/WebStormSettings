@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2727" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="interview&#10;" />
       <item value="回文" />
       <item value="回文字符串" />
       <item value="integrity" />
@@ -53,7 +54,6 @@
       <item value="re" />
       <item value="dumb" />
       <item value="dumb&#10;" />
-      <item value="dum" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614582627375" />
+    <option name="lastTrimTime" value="1615793909269" />
   </component>
 </application>
