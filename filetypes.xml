@@ -1,9 +1,34 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="aliasGuide" type="JavaScript" />
+      <mapping ext="mk" type="Native" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="compareIndex" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mtrack" type="PLAIN_TEXT" />
+      <mapping pattern="aliasGuide.js" type="PLAIN_TEXT" />
+      <mapping pattern="PersonCenter" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develpoment.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mogo" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="m-track" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="/pages/bindCard/bindCard" type="TypeScript JSX" />
+      <mapping pattern="WhiteContanier" type="Vue.js" />
+      <mapping pattern="BottomBtn" type="Vue.js" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
