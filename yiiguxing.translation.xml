@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="564" />
-    <option name="newTranslationDialogX" value="2727" />
-    <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="角度" />
       <item value="respond" />
       <item value="必要" />
       <item value="interview&#10;" />
@@ -53,7 +52,6 @@
       <item value="di" />
       <item value="recursively" />
       <item value="recur" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617970203117" />
+    <option name="lastTrimTime" value="1621171898328" />
   </component>
 </application>
