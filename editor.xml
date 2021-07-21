@@ -3,18 +3,4 @@
     <option name="FONT_SIZE" value="24" />
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="ECMAScript 6" value="true" />
-        <entry key="HTML" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-  </component>
 </application>
