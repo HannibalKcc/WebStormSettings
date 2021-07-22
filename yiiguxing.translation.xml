@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="体验" />
       <item value="领&#10;" />
       <item value="领取&#10;" />
       <item value="领取" />
@@ -53,7 +54,6 @@
       <item value="category" />
       <item value="categoriy" />
       <item value="categorie" />
-      <item value="dilemma" />
     </histories>
     <option name="languageScores">
       <map>
