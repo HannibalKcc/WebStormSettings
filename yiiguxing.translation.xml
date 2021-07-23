@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Discuss" />
       <item value="举报" />
       <item value="体验" />
       <item value="领&#10;" />
@@ -53,12 +54,11 @@
       <item value="se" />
       <item value="field" />
       <item value="category" />
-      <item value="categoriy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
