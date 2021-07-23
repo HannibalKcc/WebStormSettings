@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code. Skip running if you don't trust the source." />
       <item value="质量" />
       <item value="Discuss" />
       <item value="举报" />
@@ -53,11 +54,10 @@
       <item value="senior" />
       <item value="sen" />
       <item value="se" />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
+        <entry key="CHINESE" value="97" />
         <entry key="ENGLISH" value="96" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
