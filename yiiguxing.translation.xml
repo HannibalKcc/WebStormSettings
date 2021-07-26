@@ -4,11 +4,11 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Discuss" />
       <item value="装饰" />
       <item value="修饰" />
       <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code. Skip running if you don't trust the source." />
       <item value="质量" />
-      <item value="Discuss" />
       <item value="举报" />
       <item value="体验" />
       <item value="领&#10;" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
