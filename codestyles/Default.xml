@@ -27,6 +27,7 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </SassCodeStyleSettings>
   <ScssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
