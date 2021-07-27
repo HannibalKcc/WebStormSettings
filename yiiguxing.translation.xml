@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ringtone" />
       <item value="已弃用&#10;" />
       <item value="已&#10;" />
       <item value="DEPRATED&#10;" />
@@ -53,12 +54,11 @@
       <item value="northeast" />
       <item value="southwestnortheast" />
       <item value="southwest" />
-      <item value="trash" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
