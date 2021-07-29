@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="trailing" />
       <item value="redundant" />
       <item value="TS7026: JSX element implicitly has type 'any' because no interface 'JSX.IntrinsicElements' exists. Alt+Shift+Enter Alt+Enter div&#10;&#10;The HTML Content Division element (&lt;div&gt;) is the generic container for flow content. It has no effect on the content or layout until styled in some way using CSS (e.g. styling is directly applied to it, or some kind of layout model like Flexbox is applied to its parent element).&#10;As a &quot;pure&quot; container, the &lt;div&gt; element does not inherently represent anything. Instead, it's used to group content so it can be easily styled using the class or id attributes, marking a section of a document as being written in a different language (using the lang attribute), and so on.&#10;By Mozilla Contributors, CC BY-SA 2.5&#10;`div` on developer.mozilla.org" />
       <item value="ringtone" />
@@ -53,12 +54,11 @@
       <item value="vendors&#10;" />
       <item value="ver" />
       <item value="harmony" />
-      <item value="northeast" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
