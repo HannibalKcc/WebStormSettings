@@ -54,6 +54,9 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoSymbol" />
+  <action id="Macro.comment TODO">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
