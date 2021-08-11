@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="装饰&#10;" />
+      <item value="zhuan" />
       <item value="jackpot" />
       <item value="jackpe" />
       <item value="jackp" />
@@ -23,7 +25,6 @@
       <item value="已&#10;" />
       <item value="DEPRATED&#10;" />
       <item value="DE" />
-      <item value="装饰&#10;" />
       <item value="Discuss" />
       <item value="装饰" />
       <item value="修饰" />
@@ -53,12 +54,11 @@
       <item value="退货" />
       <item value="字母" />
       <item value="字幕" />
-      <item value="无效的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="110" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
