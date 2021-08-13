@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="抢" />
+      <item value="座位" />
       <item value="缺货" />
       <item value="奖品不足" />
       <item value="奖品" />
@@ -52,8 +54,6 @@
       <item value="仓库库" />
       <item value="库" />
       <item value="入库" />
-      <item value="入库信息" />
-      <item value="物流" />
     </histories>
     <option name="languageScores">
       <map>
