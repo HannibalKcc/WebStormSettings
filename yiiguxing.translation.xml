@@ -4,8 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="bingo" />
+      <item value="未中奖" />
       <item value="中奖" />
+      <item value="bingo" />
       <item value="分数" />
       <item value="fenshu" />
       <item value="积分" />
@@ -53,7 +54,6 @@
       <item value="回文字符串" />
       <item value="integrity" />
       <item value="erbium&#10;" />
-      <item value="erbium" />
     </histories>
     <option name="languageScores">
       <map>
