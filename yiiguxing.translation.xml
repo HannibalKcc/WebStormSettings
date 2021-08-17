@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="教程" />
       <item value="valid" />
       <item value="无效" />
       <item value="合法" />
@@ -53,7 +54,6 @@
       <item value="Alternatively, add the IDE process as an exclusion." />
       <item value="respond" />
       <item value="必要" />
-      <item value="interview&#10;" />
     </histories>
     <option name="languageScores">
       <map>
