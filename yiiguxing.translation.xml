@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="valid" />
+      <item value="无效" />
+      <item value="合法" />
+      <item value="Valiad" />
       <item value="未中奖" />
       <item value="中奖" />
       <item value="bingo" />
@@ -50,16 +54,12 @@
       <item value="respond" />
       <item value="必要" />
       <item value="interview&#10;" />
-      <item value="回文" />
-      <item value="回文字符串" />
-      <item value="integrity" />
-      <item value="erbium&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="113" />
-        <entry key="ESTONIAN" value="1" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="114" />
+        <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
