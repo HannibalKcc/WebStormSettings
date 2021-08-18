@@ -67,4 +67,10 @@
   <codeStyleSettings language="SCSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
