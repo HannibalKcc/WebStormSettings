@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="平台" />
       <item value="教程" />
       <item value="valid" />
       <item value="无效" />
@@ -53,7 +54,6 @@
       <item value="领取" />
       <item value="Alternatively, add the IDE process as an exclusion." />
       <item value="respond" />
-      <item value="必要" />
     </histories>
     <option name="languageScores">
       <map>
