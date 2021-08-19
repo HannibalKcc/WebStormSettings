@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="534" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="快手" />
+      <item value="抖音" />
       <item value="平台" />
       <item value="教程" />
       <item value="valid" />
@@ -52,13 +54,11 @@
       <item value="领&#10;" />
       <item value="领取&#10;" />
       <item value="领取" />
-      <item value="Alternatively, add the IDE process as an exclusion." />
-      <item value="respond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="115" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
