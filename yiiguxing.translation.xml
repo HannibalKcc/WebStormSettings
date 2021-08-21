@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="proceed" />
+      <item value="procee" />
       <item value="Falsy value found in plugins" />
       <item value="Trial" />
       <item value="试炼" />
@@ -52,12 +54,10 @@
       <item value="field" />
       <item value="category" />
       <item value="categoriy" />
-      <item value="categorie" />
-      <item value="dilemma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="95" />
         <entry key="ENGLISH" value="93" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628999260799" />
+    <option name="lastTrimTime" value="1629559498435" />
   </component>
 </application>
