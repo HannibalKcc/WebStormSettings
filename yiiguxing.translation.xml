@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="seat" />
+      <item value="something" />
+      <item value="广播" />
+      <item value="唱片" />
       <item value="unshift" />
       <item value="duplat" />
       <item value="duplati" />
@@ -50,15 +54,11 @@
       <item value="jackp" />
       <item value="je" />
       <item value="Manifest" />
-      <item value="vulnerabilities" />
-      <item value="宏" />
-      <item value="recursively" />
-      <item value="prepare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="124" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629080682751" />
+    <option name="lastTrimTime" value="1629698881571" />
   </component>
 </application>
