@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="领取" />
+      <item value="Energy" />
       <item value="bundled" />
       <item value="consist " />
       <item value="experimental" />
@@ -52,13 +54,11 @@
       <item value="奖品不足" />
       <item value="奖品" />
       <item value="装饰&#10;" />
-      <item value="zhuan" />
-      <item value="jackpot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="127" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
