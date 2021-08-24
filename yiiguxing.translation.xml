@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="this can avoid overwriting state written by others accidentally" />
+      <item value="create an empty object as state only when `state` property is unset" />
       <item value="入座" />
       <item value="上座" />
       <item value="抢座" />
@@ -52,13 +54,11 @@
       <item value="中奖" />
       <item value="bingo" />
       <item value="分数" />
-      <item value="fenshu" />
-      <item value="积分" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
