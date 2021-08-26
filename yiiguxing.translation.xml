@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="bootstrapped" />
       <item value="coin" />
       <item value="比特币" />
       <item value="货币" />
@@ -53,12 +54,11 @@
       <item value="qu" />
       <item value="Array(1) [Node]" />
       <item value="快手" />
-      <item value="抖音" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
