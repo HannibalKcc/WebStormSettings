@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="赚" />
+      <item value="赚钱" />
       <item value="bootstrapped" />
       <item value="coin" />
       <item value="比特币" />
@@ -52,8 +54,6 @@
       <item value="calee" />
       <item value="quasis" />
       <item value="qu" />
-      <item value="Array(1) [Node]" />
-      <item value="快手" />
     </histories>
     <option name="languageScores">
       <map>
