@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="proposal" />
       <item value="赚" />
       <item value="赚钱" />
       <item value="bootstrapped" />
@@ -53,12 +54,11 @@
       <item value="ca" />
       <item value="calee" />
       <item value="quasis" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
