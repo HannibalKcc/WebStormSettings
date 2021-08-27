@@ -4,6 +4,7 @@
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
+      <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
