@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="508" />
+    <option name="newTranslationDialogWidth" value="506" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="逆向" />
+      <item value="逆时针" />
       <item value="装饰" />
       <item value="zhuang" />
       <item value="打印机" />
@@ -52,8 +54,6 @@
       <item value="dupli" />
       <item value="重复" />
       <item value="dupo" />
-      <item value="Hoist" />
-      <item value="instantiate" />
     </histories>
     <option name="languageScores">
       <map>
