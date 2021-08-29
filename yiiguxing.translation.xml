@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="proposal" />
+      <item value="pro" />
       <item value="operable program or batch file" />
       <item value="operable program or batch file." />
       <item value="operable program or batch file.&#10;" />
@@ -52,12 +54,10 @@
       <item value="cascader" />
       <item value="Valid" />
       <item value="实体商品" />
-      <item value="实体" />
-      <item value="senior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
+        <entry key="CHINESE" value="99" />
         <entry key="ENGLISH" value="94" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629559498435" />
+    <option name="lastTrimTime" value="1630223898868" />
   </component>
 </application>
