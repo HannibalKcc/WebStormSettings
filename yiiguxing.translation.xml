@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="506" />
+    <option name="newTranslationDialogWidth" value="504" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="答题中" />
+      <item value="答题" />
+      <item value="大体重" />
       <item value="逆向" />
       <item value="逆时针" />
       <item value="装饰" />
@@ -51,14 +54,11 @@
       <item value="双重" />
       <item value="双重的" />
       <item value="双倍" />
-      <item value="dupli" />
-      <item value="重复" />
-      <item value="dupo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629698881571" />
+    <option name="lastTrimTime" value="1630290581612" />
   </component>
 </application>
