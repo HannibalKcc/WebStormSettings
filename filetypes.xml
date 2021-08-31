@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
+      <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />

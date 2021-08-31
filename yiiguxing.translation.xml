@@ -4,11 +4,18 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="洗牌" />
+      <item value="correct&#10;" />
+      <item value="题库" />
+      <item value="正确" />
+      <item value="战斗力只有5" />
+      <item value="战斗力只有" />
+      <item value="战斗力" />
+      <item value="能力值" />
       <item value="state" />
       <item value="status" />
       <item value="st" />
       <item value="打印机" />
-      <item value="正确" />
       <item value="答题中" />
       <item value="答题" />
       <item value="大体重" />
@@ -47,18 +54,11 @@
       <item value="permitted," />
       <item value="seat" />
       <item value="something" />
-      <item value="广播" />
-      <item value="唱片" />
-      <item value="unshift" />
-      <item value="duplat" />
-      <item value="duplati" />
-      <item value="duplativ" />
-      <item value="dupl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="144" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
