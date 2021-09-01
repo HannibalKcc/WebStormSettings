@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="专辑" />
       <item value="洗牌" />
       <item value="correct&#10;" />
       <item value="题库" />
@@ -53,12 +54,11 @@
       <item value="experimental" />
       <item value="permitted," />
       <item value="seat" />
-      <item value="something" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="145" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
