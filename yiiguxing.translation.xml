@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="多的" />
+      <item value="复数" />
+      <item value="multi" />
       <item value="专辑" />
       <item value="洗牌" />
       <item value="correct&#10;" />
@@ -51,14 +54,11 @@
       <item value="Energy" />
       <item value="bundled" />
       <item value="consist " />
-      <item value="experimental" />
-      <item value="permitted," />
-      <item value="seat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="146" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
