@@ -2,18 +2,19 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="EnergyFullDialog" type="AUTO_DETECTED" />
-      <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
-      <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
+      <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
+      <mapping pattern="exchange" type="AUTO_DETECTED" />
+      <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
+      <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
+      <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
-      <mapping pattern="exchange" type="AUTO_DETECTED" />
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
-      <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
