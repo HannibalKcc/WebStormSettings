@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="alternative" />
+      <item value="reducer" />
+      <item value="reduce" />
+      <item value="reducers" />
       <item value="proposal" />
       <item value="pro" />
       <item value="operable program or batch file" />
@@ -50,15 +54,11 @@
       <item value="northeast" />
       <item value="southwestnortheast" />
       <item value="southwest" />
-      <item value="trash" />
-      <item value="cascader" />
-      <item value="Valid" />
-      <item value="实体商品" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="ENGLISH" value="98" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630223898868" />
+    <option name="lastTrimTime" value="1631060537754" />
   </component>
 </application>

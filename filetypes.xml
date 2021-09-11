@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="05_start_plugin" type="AUTO_DETECTED" />
+      <mapping pattern="ChildCheckUpdate" type="AUTO_DETECTED" />
       <mapping pattern="03_hello_babel_types" type="AUTO_DETECTED" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
