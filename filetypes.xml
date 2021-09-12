@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="EditPostForm" type="AUTO_DETECTED" />
       <mapping pattern="05_start_plugin" type="AUTO_DETECTED" />
       <mapping pattern="ChildCheckUpdate" type="AUTO_DETECTED" />
       <mapping pattern="03_hello_babel_types" type="AUTO_DETECTED" />
