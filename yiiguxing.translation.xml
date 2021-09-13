@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="second" />
       <item value="Month" />
       <item value="大盘" />
       <item value="无权" />
@@ -53,12 +54,11 @@
       <item value="status" />
       <item value="st" />
       <item value="打印机" />
-      <item value="答题中" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
