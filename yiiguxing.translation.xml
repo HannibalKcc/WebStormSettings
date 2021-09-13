@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="twist" />
+      <item value="口径" />
       <item value="品牌" />
       <item value="牌" />
       <item value="牌子" />
@@ -52,13 +54,11 @@
       <item value="逆向" />
       <item value="逆时针" />
       <item value="装饰" />
-      <item value="zhuang" />
-      <item value="音符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="159" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
