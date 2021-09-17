@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="sperate" />
       <item value="simple" />
       <item value="trend" />
       <item value="tre" />
@@ -53,11 +54,10 @@
       <item value="题库" />
       <item value="正确" />
       <item value="战斗力只有5" />
-      <item value="战斗力只有" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
+        <entry key="CHINESE" value="174" />
         <entry key="ENGLISH" value="165" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
