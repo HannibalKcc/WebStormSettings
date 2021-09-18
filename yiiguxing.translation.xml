@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="476" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="补充" />
       <item value="deprated" />
       <item value="de" />
       <item value="sperate" />
@@ -53,12 +54,11 @@
       <item value="专辑" />
       <item value="洗牌" />
       <item value="correct&#10;" />
-      <item value="题库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="166" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
