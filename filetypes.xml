@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="EnergyFullDialog" type="AUTO_DETECTED" />
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
+      <mapping pattern="Dialog123" type="AUTO_DETECTED" />
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
