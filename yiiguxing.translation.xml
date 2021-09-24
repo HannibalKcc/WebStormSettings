@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Mouth" />
       <item value="Parameter _handleDialogHide is not described in JSDoc" />
       <item value="减法" />
       <item value="减" />
@@ -53,12 +54,11 @@
       <item value="玩法介绍" />
       <item value="玩介绍" />
       <item value="介绍" />
-      <item value="多的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
