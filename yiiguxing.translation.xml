@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="re" />
+      <item value="rea" />
       <item value="debounce" />
       <item value="Cascader" />
       <item value="Mouth" />
@@ -52,12 +54,10 @@
       <item value="rub" />
       <item value="GRAB" />
       <item value="GRAV" />
-      <item value="GR" />
-      <item value="玩法介绍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
+        <entry key="CHINESE" value="181" />
         <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
