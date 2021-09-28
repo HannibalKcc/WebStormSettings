@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="debounce" />
       <item value="Cascader" />
       <item value="Mouth" />
       <item value="Parameter _handleDialogHide is not described in JSDoc" />
@@ -53,7 +54,6 @@
       <item value="GRAV" />
       <item value="GR" />
       <item value="玩法介绍" />
-      <item value="玩介绍" />
     </histories>
     <option name="languageScores">
       <map>
