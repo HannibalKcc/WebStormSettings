@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="vendor" />
       <item value="re" />
       <item value="rea" />
       <item value="debounce" />
@@ -53,11 +54,10 @@
       <item value="抢劫" />
       <item value="rub" />
       <item value="GRAB" />
-      <item value="GRAV" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="182" />
         <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632275482360" />
+    <option name="lastTrimTime" value="1632822116981" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
