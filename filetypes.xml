@@ -16,6 +16,7 @@
       <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
       <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
       <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
+      <mapping pattern="bu" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
