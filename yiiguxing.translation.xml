@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="illegal operation on a directory" />
       <item value="vendor" />
       <item value="re" />
       <item value="rea" />
@@ -53,11 +54,10 @@
       <item value="rob" />
       <item value="抢劫" />
       <item value="rub" />
-      <item value="GRAB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
+        <entry key="CHINESE" value="183" />
         <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
