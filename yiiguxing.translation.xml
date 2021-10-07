@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ENOENT" />
       <item value="preserve" />
       <item value="candle" />
       <item value="spawn" />
@@ -53,11 +54,10 @@
       <item value="spinner" />
       <item value="vendors&#10;" />
       <item value="ver" />
-      <item value="harmony" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="99" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DUTCH" value="1" />
