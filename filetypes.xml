@@ -12,6 +12,7 @@
       <mapping pattern="StorageCollection" type="AUTO_DETECTED" />
       <mapping pattern="top_nav" type="AUTO_DETECTED" />
       <mapping pattern="DialogSimple" type="AUTO_DETECTED" />
+      <mapping pattern="html2img" type="AUTO_DETECTED" />
       <mapping pattern="exchange" type="AUTO_DETECTED" />
       <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
       <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
