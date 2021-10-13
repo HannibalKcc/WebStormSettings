@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="preload" />
       <item value="积极" />
       <item value="revenue" />
       <item value="参考" />
@@ -53,11 +54,10 @@
       <item value="牌子" />
       <item value="厂" />
       <item value="厂牌" />
-      <item value="汇率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
+        <entry key="CHINESE" value="191" />
         <entry key="ENGLISH" value="177" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633659831609" />
+    <option name="lastTrimTime" value="1634092949446" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
