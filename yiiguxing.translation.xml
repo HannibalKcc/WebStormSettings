@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="投放" />
       <item value="preload" />
       <item value="积极" />
       <item value="revenue" />
@@ -53,12 +54,11 @@
       <item value="牌" />
       <item value="牌子" />
       <item value="厂" />
-      <item value="厂牌" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="178" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
