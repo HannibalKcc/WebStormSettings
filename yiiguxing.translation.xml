@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="legacy Render Subtree Into Container" />
+      <item value="flush" />
       <item value="ENOENT" />
       <item value="preserve" />
       <item value="candle" />
@@ -52,8 +54,6 @@
       <item value="虚拟" />
       <item value="商城" />
       <item value="spinner" />
-      <item value="vendors&#10;" />
-      <item value="ver" />
     </histories>
     <option name="languageScores">
       <map>
