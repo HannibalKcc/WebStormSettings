@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="废弃" />
       <item value="lottery" />
       <item value="silent" />
       <item value="si" />
@@ -53,7 +54,6 @@
       <item value="无权" />
       <item value="通过" />
       <item value="权限" />
-      <item value="twist" />
     </histories>
     <option name="languageScores">
       <map>
