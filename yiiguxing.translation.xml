@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="processors" />
+      <item value="Parses comments in file to extract file-specific config of rules, globals and environments and merges them with global config; also code blocks where reporting is disabled or enabled and merges them with reporting config." />
       <item value="Directives" />
       <item value="废弃" />
       <item value="lottery" />
@@ -52,8 +54,6 @@
       <item value="second" />
       <item value="Month" />
       <item value="大盘" />
-      <item value="无权" />
-      <item value="通过" />
     </histories>
     <option name="languageScores">
       <map>
