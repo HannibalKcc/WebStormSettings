@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="sticky" />
       <item value="evaluated" />
       <item value="processors" />
       <item value="Parses comments in file to extract file-specific config of rules, globals and environments and merges them with global config; also code blocks where reporting is disabled or enabled and merges them with reporting config." />
@@ -53,12 +54,11 @@
       <item value="趋势" />
       <item value="作者" />
       <item value="second" />
-      <item value="Month" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634092949446" />
+    <option name="lastTrimTime" value="1635141360440" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
