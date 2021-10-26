@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Segments" />
       <item value="阶段" />
       <item value="截断" />
       <item value="anonymous" />
@@ -53,7 +54,6 @@
       <item value="de" />
       <item value="sperate" />
       <item value="simple" />
-      <item value="trend" />
     </histories>
     <option name="languageScores">
       <map>
