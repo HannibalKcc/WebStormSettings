@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="头衔" />
+      <item value="称号" />
       <item value="逆向" />
       <item value="anti" />
       <item value="Segments" />
@@ -32,7 +34,6 @@
       <item value="万" />
       <item value="percent" />
       <item value="百分比" />
-      <item value="头衔" />
       <item value="击败对手" />
       <item value="击败" />
       <item value="被动" />
@@ -53,7 +54,6 @@
       <item value="暂停" />
       <item value="补充" />
       <item value="deprated" />
-      <item value="de" />
     </histories>
     <option name="languageScores">
       <map>
