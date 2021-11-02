@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ascent" />
       <item value="JSX Spread Attribute" />
       <item value="接收" />
       <item value="Guess" />
@@ -53,12 +54,11 @@
       <item value="Parameter _handleDialogHide is not described in JSDoc" />
       <item value="减法" />
       <item value="减" />
-      <item value="翻译失败: 未知错误&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;WebStorm 2021.2  &#10;&gt;Build #WS-212.4746.80, built on July 23, 2021  &#10;&gt;Runtime version: 11.0.11+9-b1504.13 amd64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.  &#10;&gt;OS: Windows 10 10.0&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google 翻译 :: 翻译失败: 未知错误&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:129)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:265)&#10;&#9;at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)&#10;&#9;at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:829)&#10;Caused by: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2713)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2699)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1854)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)&#10;&#9;at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:365)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:415)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:102)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:90)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:517)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:499)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:100)&#10;&#9;... 11 more&#10;```&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
