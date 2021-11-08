@@ -18,6 +18,7 @@
       <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
       <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
       <mapping pattern="bu" type="AUTO_DETECTED" />
+      <mapping pattern="otherAudio" type="AUTO_DETECTED" />
       <mapping pattern="BadNews" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="imgUrl" type="AUTO_DETECTED" />
