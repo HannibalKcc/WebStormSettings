@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="howler" />
       <item value="divider&#10;" />
       <item value="情感" />
       <item value="ellipsis" />
@@ -53,12 +54,11 @@
       <item value="rea" />
       <item value="debounce" />
       <item value="Cascader" />
-      <item value="Mouth" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635757339163" />
+    <option name="lastTrimTime" value="1636343565011" />
   </component>
 </application>
