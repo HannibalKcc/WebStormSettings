@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="integrity" />
+      <item value="standalon" />
       <item value="invalid" />
       <item value="invaliad" />
       <item value="howler" />
@@ -52,13 +54,11 @@
       <item value="曝光" />
       <item value="illegal operation on a directory" />
       <item value="vendor" />
-      <item value="re" />
-      <item value="rea" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
