@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Internal" />
+      <item value="Polish" />
+      <item value="nail_care" />
+      <item value="Compliance" />
       <item value="fixtures" />
       <item value="Numeric Literal" />
       <item value="integrity" />
@@ -50,14 +54,10 @@
       <item value="百分比" />
       <item value="击败对手" />
       <item value="击败" />
-      <item value="被动" />
-      <item value="Deprecated" />
-      <item value="曝光&#10;" />
-      <item value="曝光" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
+        <entry key="CHINESE" value="211" />
         <entry key="ENGLISH" value="196" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
