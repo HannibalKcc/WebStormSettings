@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="444" />
+    <option name="newTranslationDialogWidth" value="442" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="comment" />
+      <item value="问答" />
+      <item value="相关" />
+      <item value="关联" />
       <item value="Internal" />
       <item value="Polish" />
       <item value="nail_care" />
@@ -50,15 +54,11 @@
       <item value="参考" />
       <item value="c" />
       <item value="万" />
-      <item value="percent" />
-      <item value="百分比" />
-      <item value="击败对手" />
-      <item value="击败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
