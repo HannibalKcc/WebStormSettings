@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="author" />
       <item value="departed" />
       <item value="deprated" />
       <item value="不推荐的" />
@@ -53,12 +54,11 @@
       <item value="投放" />
       <item value="preload" />
       <item value="积极" />
-      <item value="revenue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
