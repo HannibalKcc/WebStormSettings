@@ -1,0 +1,16 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Wechat mini program component js file.js" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Wechat mini program component json file.json" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Wechat mini program page js file(Component API).js" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Wechat mini program page js file(Page API).js" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Wechat mini program page json file(Component API).json" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Wechat mini program page json file(Page API).json" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+    <code_templates>
+      <template name="React Class Component.jsx" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="React Function Component.jsx" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
