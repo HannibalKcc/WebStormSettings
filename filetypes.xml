@@ -28,6 +28,7 @@
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
+      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="YAML" />
