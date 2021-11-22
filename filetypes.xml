@@ -28,13 +28,12 @@
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern="SongReport.js" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="asd" approved="true" type="JavaScript" />
