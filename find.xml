@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'element-single-mv'" />
+    <option name="defaultScopeName" value="Project 'element-single-mv'" />
+    <option name="SEARCH_SCOPE" value="Project 'element-single-mv'" />
+    <mask>*.ng</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.wxss</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
-    <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
     <mask>*.html</mask>
