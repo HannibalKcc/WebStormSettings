@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Validates to more than one variant " />
       <item value="reject" />
       <item value="适配器" />
       <item value="author" />
@@ -53,11 +54,10 @@
       <item value="si" />
       <item value="ESLint: Assignments to the 'cbList' variable from inside React Hook useEffect will be lost after each render. To preserve the value over time, store it in a useRef Hook and keep the mutable value in the '.current' property. Otherwise, you can move this variable directly inside useEffect.(react-hooks/exhaustive-deps)" />
       <item value="立即" />
-      <item value="投放" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
+        <entry key="CHINESE" value="217" />
         <entry key="ENGLISH" value="203" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636967440509" />
+    <option name="lastTrimTime" value="1637718485874" />
   </component>
 </application>
