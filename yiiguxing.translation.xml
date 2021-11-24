@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="438" />
+    <option name="newTranslationDialogWidth" value="436" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="曝光" />
       <item value="Propagation" />
       <item value="deduped" />
       <item value="Validates to more than one variant " />
@@ -53,7 +54,6 @@
       <item value="Directives" />
       <item value="lottery" />
       <item value="silent" />
-      <item value="si" />
     </histories>
     <option name="languageScores">
       <map>
