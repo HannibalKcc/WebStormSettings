@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogWidth" value="434" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="匿名" />
       <item value="Silence" />
       <item value="曝光" />
       <item value="Propagation" />
@@ -53,7 +54,6 @@
       <item value="processors" />
       <item value="Parses comments in file to extract file-specific config of rules, globals and environments and merges them with global config; also code blocks where reporting is disabled or enabled and merges them with reporting config." />
       <item value="Directives" />
-      <item value="lottery" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637718485874" />
+    <option name="lastTrimTime" value="1638175872579" />
   </component>
 </application>
