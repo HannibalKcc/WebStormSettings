@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="432" />
+    <option name="newTranslationDialogWidth" value="430" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="reserve" />
+      <item value="预约" />
       <item value="群" />
       <item value="匿名" />
       <item value="Silence" />
@@ -52,13 +54,11 @@
       <item value="x" />
       <item value="sticky" />
       <item value="evaluated" />
-      <item value="processors" />
-      <item value="Parses comments in file to extract file-specific config of rules, globals and environments and merges them with global config; also code blocks where reporting is disabled or enabled and merges them with reporting config." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
