@@ -1,15 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="426" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="reserve" />
+      <item value="曝光" />
+      <item value="cancel" />
       <item value="预约" />
+      <item value="专辑" />
+      <item value="reserve" />
       <item value="群" />
       <item value="匿名" />
       <item value="Silence" />
-      <item value="曝光" />
       <item value="Propagation" />
       <item value="deduped" />
       <item value="Validates to more than one variant " />
@@ -52,12 +54,10 @@
       <item value="anonymous" />
       <item value="小于5" />
       <item value="x" />
-      <item value="sticky" />
-      <item value="evaluated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
+        <entry key="CHINESE" value="220" />
         <entry key="ENGLISH" value="207" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
