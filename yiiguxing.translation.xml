@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="tariff" />
+      <item value="资费" />
+      <item value="资费占比" />
       <item value="Slash" />
       <item value="We use `PUBLIC_URL` environment variable or &quot;homepage&quot; field to infer &quot;public path&quot; at which the app is served." />
       <item value="served" />
@@ -51,14 +54,11 @@
       <item value="称号" />
       <item value="逆向" />
       <item value="anti" />
-      <item value="Segments" />
-      <item value="阶段" />
-      <item value="截断" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
