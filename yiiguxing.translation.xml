@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Slash" />
+      <item value="We use `PUBLIC_URL` environment variable or &quot;homepage&quot; field to infer &quot;public path&quot; at which the app is served." />
+      <item value="served" />
       <item value="曝光" />
       <item value="cancel" />
       <item value="预约" />
@@ -51,14 +54,11 @@
       <item value="Segments" />
       <item value="阶段" />
       <item value="截断" />
-      <item value="anonymous" />
-      <item value="小于5" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="ENGLISH" value="211" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="VIETNAMESE" value="1" />
