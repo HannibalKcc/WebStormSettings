@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="fack Input Cls" />
       <item value="投放" />
       <item value="tariff" />
       <item value="资费" />
@@ -53,7 +54,6 @@
       <item value="Guess" />
       <item value="头衔" />
       <item value="称号" />
-      <item value="逆向" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,7 @@
         <entry key="ENGLISH" value="212" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
