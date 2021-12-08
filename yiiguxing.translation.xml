@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="作弊" />
       <item value="fack Input Cls" />
       <item value="投放" />
       <item value="tariff" />
@@ -53,7 +54,6 @@
       <item value="接收" />
       <item value="Guess" />
       <item value="头衔" />
-      <item value="称号" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638175872579" />
+    <option name="lastTrimTime" value="1638951439966" />
   </component>
 </application>
