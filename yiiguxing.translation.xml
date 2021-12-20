@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="paper" />
       <item value="model" />
       <item value="mode" />
       <item value="Potentially invalid reference access to a class field via 'this.' of a nested function" />
@@ -53,12 +54,11 @@
       <item value="howler" />
       <item value="divider&#10;" />
       <item value="情感" />
-      <item value="ellipsis" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
