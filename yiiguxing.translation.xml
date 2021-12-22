@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="default Reflow" />
       <item value="Reat" />
       <item value="paper" />
       <item value="model" />
@@ -53,7 +54,6 @@
       <item value="invalid" />
       <item value="invaliad" />
       <item value="howler" />
-      <item value="divider&#10;" />
     </histories>
     <option name="languageScores">
       <map>
