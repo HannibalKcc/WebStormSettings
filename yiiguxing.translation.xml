@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="422" />
+    <option name="newTranslationDialogWidth" value="420" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="model" />
+      <item value="modal" />
       <item value="default Reflow" />
       <item value="Reat" />
       <item value="paper" />
-      <item value="model" />
       <item value="mode" />
       <item value="Potentially invalid reference access to a class field via 'this.' of a nested function" />
       <item value="res" />
@@ -53,11 +54,10 @@
       <item value="standalon" />
       <item value="invalid" />
       <item value="invaliad" />
-      <item value="howler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
+        <entry key="CHINESE" value="224" />
         <entry key="ENGLISH" value="214" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640079200206" />
+    <option name="lastTrimTime" value="1640743903748" />
   </component>
 </application>
