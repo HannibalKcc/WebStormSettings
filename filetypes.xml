@@ -21,6 +21,7 @@
       <mapping pattern="bu" type="AUTO_DETECTED" />
       <mapping pattern="otherAudio" type="AUTO_DETECTED" />
       <mapping pattern="BadNews" type="AUTO_DETECTED" />
+      <mapping pattern="middle" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="imgUrl" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
@@ -28,6 +29,7 @@
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
