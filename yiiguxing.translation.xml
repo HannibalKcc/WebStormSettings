@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="未知" />
+      <item value="冻结的" />
+      <item value="冻结" />
+      <item value="frozen" />
       <item value="slug" />
       <item value="model" />
       <item value="modal" />
@@ -50,15 +54,11 @@
       <item value="nail_care" />
       <item value="Compliance" />
       <item value="fixtures" />
-      <item value="Numeric Literal" />
-      <item value="integrity" />
-      <item value="standalon" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="217" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
