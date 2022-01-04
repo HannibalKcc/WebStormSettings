@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="slug" />
       <item value="model" />
       <item value="modal" />
       <item value="default Reflow" />
@@ -53,12 +54,11 @@
       <item value="integrity" />
       <item value="standalon" />
       <item value="invalid" />
-      <item value="invaliad" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640743903748" />
+    <option name="lastTrimTime" value="1641277457954" />
   </component>
 </application>
