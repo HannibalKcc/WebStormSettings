@@ -20,6 +20,7 @@
       <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
       <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
       <mapping pattern="SvgPlay" type="AUTO_DETECTED" />
+      <mapping pattern="BgImgUpload" type="AUTO_DETECTED" />
       <mapping pattern="bu" type="AUTO_DETECTED" />
       <mapping pattern="otherAudio" type="AUTO_DETECTED" />
       <mapping pattern="table" type="AUTO_DETECTED" />
