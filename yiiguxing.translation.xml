@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="拥有" />
+      <item value="自己的" />
       <item value="正方形" />
       <item value="fiber-triangle" />
       <item value="Causes demo to stutter." />
@@ -52,8 +54,6 @@
       <item value="无效的" />
       <item value="有效的" />
       <item value="valid" />
-      <item value="校验" />
-      <item value="合法" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,13 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636169584095" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1642559895807" />
   </component>
 </application>
