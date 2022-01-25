@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Pattern" />
       <item value="Synthetic" />
       <item value="注册" />
       <item value="未知" />
@@ -53,12 +54,11 @@
       <item value="关联" />
       <item value="Internal" />
       <item value="Polish" />
-      <item value="nail_care" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641886957011" />
+    <option name="lastTrimTime" value="1643091651095" />
   </component>
 </application>
