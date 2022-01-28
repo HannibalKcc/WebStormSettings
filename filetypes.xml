@@ -30,6 +30,7 @@
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="imgUrl" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
+      <mapping pattern="useIsMounted" type="AUTO_DETECTED" />
       <mapping pattern="appContext" type="AUTO_DETECTED" />
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
