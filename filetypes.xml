@@ -1,13 +1,50 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="EditPostForm" type="AUTO_DETECTED" />
-      <mapping pattern="05_start_plugin" type="AUTO_DETECTED" />
-      <mapping pattern="ChildCheckUpdate" type="AUTO_DETECTED" />
-      <mapping pattern="03_hello_babel_types" type="AUTO_DETECTED" />
+      <mapping pattern="EnergyFullDialog" type="AUTO_DETECTED" />
+      <mapping pattern="FontList" type="AUTO_DETECTED" />
+      <mapping pattern="tableConfig" type="AUTO_DETECTED" />
+      <mapping pattern="routes" type="AUTO_DETECTED" />
+      <mapping pattern="eventBus" type="AUTO_DETECTED" />
+      <mapping pattern="Dialog123" type="AUTO_DETECTED" />
+      <mapping pattern="questionList" type="AUTO_DETECTED" />
+      <mapping pattern="energy" type="AUTO_DETECTED" />
+      <mapping pattern="myHook" type="AUTO_DETECTED" />
+      <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
+      <mapping pattern="StorageCollection" type="AUTO_DETECTED" />
+      <mapping pattern="top_nav" type="AUTO_DETECTED" />
+      <mapping pattern="DialogSimple" type="AUTO_DETECTED" />
+      <mapping pattern="html2img" type="AUTO_DETECTED" />
+      <mapping pattern="resBody" type="AUTO_DETECTED" />
+      <mapping pattern="exchange" type="AUTO_DETECTED" />
+      <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
+      <mapping pattern="SongCurPlayTime" type="AUTO_DETECTED" />
+      <mapping pattern="buriedPoints" type="AUTO_DETECTED" />
+      <mapping pattern="SvgPlay" type="AUTO_DETECTED" />
+      <mapping pattern="BgImgUpload" type="AUTO_DETECTED" />
+      <mapping pattern="bu" type="AUTO_DETECTED" />
+      <mapping pattern="otherAudio" type="AUTO_DETECTED" />
+      <mapping pattern="table" type="AUTO_DETECTED" />
+      <mapping pattern="BadNews" type="AUTO_DETECTED" />
+      <mapping pattern="middle" type="AUTO_DETECTED" />
+      <mapping pattern="ArcText" type="AUTO_DETECTED" />
+      <mapping pattern="imgUrl" type="AUTO_DETECTED" />
+      <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
+      <mapping pattern="useIsMounted" type="AUTO_DETECTED" />
+      <mapping pattern="appContext" type="AUTO_DETECTED" />
+      <mapping pattern="Number2Img" type="AUTO_DETECTED" />
+      <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
+      <mapping pattern="Style1" type="AUTO_DETECTED" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="react" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
+      <removed_mapping ext="wxml" approved="true" type="HTML" />
+      <removed_mapping pattern="SongReport.js" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="asd" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>

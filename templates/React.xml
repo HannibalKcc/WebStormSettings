@@ -199,4 +199,12 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="reducerCb" value="(state, action) =&gt; {&#10;    switch (action.type) {&#10;        case '$actionType1$':&#10;            return {...state$END$};&#10;        case '$actionType2$':&#10;            return {...state};&#10;        default:&#10;            throw new Error('unexpect action.type'); &#10;    }    &#10;}" description="自编：Reducer cb with switch" toReformat="true" toShortenFQNames="true">
+    <variable name="actionType1" expression="" defaultValue="type1" alwaysStopAt="true" />
+    <variable name="actionType2" expression="" defaultValue="type2" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

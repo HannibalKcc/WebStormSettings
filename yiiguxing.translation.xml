@@ -1,71 +1,73 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="552" />
-    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogWidth" value="418" />
+    <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="纹理" />
-      <item value="拥有" />
-      <item value="自己的" />
-      <item value="正方形" />
-      <item value="fiber-triangle" />
-      <item value="Causes demo to stutter." />
-      <item value="Sierpinski Triangle" />
-      <item value="legacy Render Subtree Into Container" />
-      <item value="flush" />
-      <item value="ENOENT" />
-      <item value="preserve" />
-      <item value="candle" />
-      <item value="spawn" />
-      <item value="alternative" />
-      <item value="reducer" />
-      <item value="reduce" />
-      <item value="reducers" />
-      <item value="proposal" />
-      <item value="pro" />
-      <item value="operable program or batch file" />
-      <item value="operable program or batch file." />
-      <item value="operable program or batch file.&#10;" />
-      <item value="permanent" />
-      <item value="permanc" />
-      <item value="proceed" />
-      <item value="procee" />
-      <item value="Falsy value found in plugins" />
-      <item value="Trial" />
-      <item value="试炼" />
-      <item value="角度" />
-      <item value="respond" />
-      <item value="必要" />
-      <item value="interview&#10;" />
-      <item value="回文" />
-      <item value="回文字符串" />
-      <item value="integrity" />
-      <item value="erbium&#10;" />
-      <item value="erbium" />
-      <item value="er" />
-      <item value="仓库" />
-      <item value="仓库库" />
-      <item value="库" />
-      <item value="入库" />
-      <item value="入库信息" />
-      <item value="物流" />
-      <item value="退货" />
-      <item value="字母" />
-      <item value="字幕" />
-      <item value="无效的" />
-      <item value="有效的" />
+      <item value="intrinsic" />
+      <item value="lodash" />
+      <item value="parenthesized" />
+      <item value="Pattern" />
+      <item value="Synthetic" />
+      <item value="注册" />
+      <item value="未知" />
+      <item value="冻结的" />
+      <item value="冻结" />
+      <item value="frozen" />
+      <item value="slug" />
+      <item value="model" />
+      <item value="modal" />
+      <item value="default Reflow" />
+      <item value="Reat" />
+      <item value="paper" />
+      <item value="mode" />
+      <item value="Potentially invalid reference access to a class field via 'this.' of a nested function" />
+      <item value="res" />
+      <item value="!usrbinenv python Hi There! You may be wondering what this giant blob of binary data here is, you might even be worried that we're up to something nefarious (good for you for being paranoid!). This is a base85 encoding of a zip file, this zip file contains an entire copy of pip (version 21.3.1). Pip is a thing that installs packages, pip itself is a package that someone might want to install, especially if they're looking to run this get-pip.py script. Pip has a lot of code to deal with the security of installing packages, various edge cases on various platforms, and other such sort of &quot;tribal knowledge&quot; that has been encoded in its code base. Because of this we basically include an entire copy of pip inside this blob. We do this because the alternatives are attempt to implement a &quot;minipip&quot; that probably doesn't do things correctly and has weird edge cases, or compress pip itself down into a single file. If you're wondering how this is created, it is generated using `scriptsgenerate.py` in https:github.compypaget-pip." />
+      <item value="作弊" />
+      <item value="fack Input Cls" />
+      <item value="投放" />
+      <item value="tariff" />
+      <item value="资费" />
+      <item value="资费占比" />
+      <item value="Slash" />
+      <item value="We use `PUBLIC_URL` environment variable or &quot;homepage&quot; field to infer &quot;public path&quot; at which the app is served." />
+      <item value="served" />
+      <item value="曝光" />
+      <item value="cancel" />
+      <item value="预约" />
+      <item value="专辑" />
+      <item value="reserve" />
+      <item value="群" />
+      <item value="匿名" />
+      <item value="Silence" />
+      <item value="Propagation" />
+      <item value="deduped" />
+      <item value="Validates to more than one variant " />
+      <item value="reject" />
+      <item value="适配器" />
+      <item value="author" />
+      <item value="departed" />
+      <item value="deprated" />
+      <item value="不推荐的" />
+      <item value="废弃" />
+      <item value="comment" />
+      <item value="问答" />
+      <item value="相关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="101" />
-        <entry key="ESTONIAN" value="1" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="220" />
+        <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
+        <entry key="MALTESE" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643005182338" />
+    <option name="lastTrimTime" value="1643091651095" />
   </component>
 </application>

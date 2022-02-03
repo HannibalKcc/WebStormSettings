@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="comment TODO">
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="CommentByLineComment" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <typing text-keycode="84:0;79:0;68:0;79:0">TODO</typing>
+    </macro>
+  </component>
+</application>
