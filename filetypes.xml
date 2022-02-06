@@ -5,6 +5,7 @@
       <mapping pattern="FontList" type="AUTO_DETECTED" />
       <mapping pattern="tableConfig" type="AUTO_DETECTED" />
       <mapping pattern="routes" type="AUTO_DETECTED" />
+      <mapping pattern="LogoConfigPanelMenu" type="AUTO_DETECTED" />
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
       <mapping pattern="Dialog123" type="AUTO_DETECTED" />
       <mapping pattern="questionList" type="AUTO_DETECTED" />
@@ -15,6 +16,7 @@
       <mapping pattern="top_nav" type="AUTO_DETECTED" />
       <mapping pattern="DialogSimple" type="AUTO_DETECTED" />
       <mapping pattern="html2img" type="AUTO_DETECTED" />
+      <mapping pattern="LogoConfigPanelMenuDetail" type="AUTO_DETECTED" />
       <mapping pattern="resBody" type="AUTO_DETECTED" />
       <mapping pattern="exchange" type="AUTO_DETECTED" />
       <mapping pattern="ReadyAnswer" type="AUTO_DETECTED" />
