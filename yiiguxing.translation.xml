@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="throttle" />
       <item value="Panel" />
       <item value="intrinsic" />
       <item value="lodash" />
@@ -53,12 +54,11 @@
       <item value="不推荐的" />
       <item value="废弃" />
       <item value="comment" />
-      <item value="问答" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
