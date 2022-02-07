@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Panel" />
       <item value="intrinsic" />
       <item value="lodash" />
       <item value="parenthesized" />
@@ -53,12 +54,11 @@
       <item value="废弃" />
       <item value="comment" />
       <item value="问答" />
-      <item value="相关" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643091651095" />
+    <option name="lastTrimTime" value="1644203697619" />
   </component>
 </application>
