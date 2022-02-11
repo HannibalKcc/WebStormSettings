@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="rollover" />
+      <item value="this set makes it so the stage only re-renders when an event handler indicates a change has happened." />
+      <item value="tick" />
+      <item value="daisies" />
+      <item value="populate" />
       <item value="Graphics" />
       <item value="broadcast" />
       <item value="throttle" />
@@ -49,16 +54,11 @@
       <item value="deduped" />
       <item value="Validates to more than one variant " />
       <item value="reject" />
-      <item value="适配器" />
-      <item value="author" />
-      <item value="departed" />
-      <item value="deprated" />
-      <item value="不推荐的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="ENGLISH" value="231" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
