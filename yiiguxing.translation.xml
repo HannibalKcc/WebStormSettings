@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="replace Internal" />
       <item value="so don't attempt to draw a GL only Texture into a 2D context" />
       <item value="occur" />
       <item value="Please note that shape-to-shape collision is not currently supported by EaselJS." />
@@ -53,12 +54,11 @@
       <item value="fack Input Cls" />
       <item value="投放" />
       <item value="tariff" />
-      <item value="资费" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
