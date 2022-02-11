@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="so don't attempt to draw a GL only Texture into a 2D context" />
+      <item value="occur" />
+      <item value="Please note that shape-to-shape collision is not currently supported by EaselJS." />
+      <item value="Tests whether the display object intersects the specified point in local coordinates (ie. draws a pixel with alpha &gt; 0 at the specified position). This ignores the alpha, shadow, hitArea, mask, and compositeOperation of the display object." />
+      <item value="intersects" />
       <item value="rect" />
       <item value="Indicates whether the mouse is currently within the bounds of the canvas." />
       <item value="Opaque" />
@@ -49,16 +54,11 @@
       <item value="投放" />
       <item value="tariff" />
       <item value="资费" />
-      <item value="资费占比" />
-      <item value="Slash" />
-      <item value="We use `PUBLIC_URL` environment variable or &quot;homepage&quot; field to infer &quot;public path&quot; at which the app is served." />
-      <item value="served" />
-      <item value="曝光" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
