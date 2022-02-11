@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="using &quot;on&quot; binds the listener to the scope of the currentTarget by default in this case that means it executes in the scope of the button." />
+      <item value="This directory contains compressed versions of the EaselJS library, including the most recent tagged release and the in-progress NEXT release. Both combined and minified versions of the library are included. The former being useful for debugging, and the latter for deployment. You can also link to the libraries on the [CreateJS CDN](http:code.createjs.com), to benefit from faster load times and shared caching across sites." />
+      <item value="Note that previous versions also had a webgl library, but it has been replaced by `StageGL`, which is included in the minified source." />
+      <item value="recent" />
+      <item value="contains the _latest_ EaselJS classes." />
+      <item value="the most recent _tagged_ version of all the EaselJS classes." />
       <item value="rollover" />
       <item value="this set makes it so the stage only re-renders when an event handler indicates a change has happened." />
       <item value="tick" />
@@ -48,17 +54,11 @@
       <item value="专辑" />
       <item value="reserve" />
       <item value="群" />
-      <item value="匿名" />
-      <item value="Silence" />
-      <item value="Propagation" />
-      <item value="deduped" />
-      <item value="Validates to more than one variant " />
-      <item value="reject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
