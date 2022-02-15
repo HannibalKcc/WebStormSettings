@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="rec" />
       <item value="Interface" />
       <item value="is Dirty" />
       <item value="Ratio" />
@@ -53,12 +54,11 @@
       <item value="modal" />
       <item value="default Reflow" />
       <item value="Reat" />
-      <item value="paper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
