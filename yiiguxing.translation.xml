@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="slug" />
+      <item value="const isPermission = await userInfoHelper.checkPermission({ slug: 'login' });" />
       <item value="rec" />
       <item value="Interface" />
       <item value="is Dirty" />
@@ -49,16 +51,14 @@
       <item value="冻结的" />
       <item value="冻结" />
       <item value="frozen" />
-      <item value="slug" />
       <item value="model" />
       <item value="modal" />
       <item value="default Reflow" />
-      <item value="Reat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
