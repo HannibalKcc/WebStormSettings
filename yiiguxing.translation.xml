@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="414" />
+    <option name="newTranslationDialogWidth" value="412" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="疑惑" />
       <item value="declare" />
       <item value="歌词" />
       <item value="身份" />
@@ -53,7 +54,6 @@
       <item value="注册" />
       <item value="未知" />
       <item value="冻结的" />
-      <item value="冻结" />
     </histories>
     <option name="languageScores">
       <map>
