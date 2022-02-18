@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="l" />
+      <item value="contorl" />
       <item value="stretch" />
       <item value="guide&#10;" />
       <item value="opacity" />
@@ -52,13 +54,11 @@
       <item value="tick" />
       <item value="daisies" />
       <item value="populate" />
-      <item value="Graphics" />
-      <item value="broadcast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="268" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
