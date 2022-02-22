@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="world" />
+      <item value="wor" />
+      <item value="word" />
       <item value="升职" />
       <item value="Model" />
       <item value="Modal" />
@@ -51,14 +54,11 @@
       <item value="Note that previous versions also had a webgl library, but it has been replaced by `StageGL`, which is included in the minified source." />
       <item value="recent" />
       <item value="contains the _latest_ EaselJS classes." />
-      <item value="the most recent _tagged_ version of all the EaselJS classes." />
-      <item value="rollover" />
-      <item value="this set makes it so the stage only re-renders when an event handler indicates a change has happened." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="273" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
