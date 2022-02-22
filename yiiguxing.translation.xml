@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="408" />
+    <option name="newTranslationDialogWidth" value="406" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="升职" />
       <item value="Model" />
       <item value="Modal" />
       <item value="歌词" />
@@ -53,7 +54,6 @@
       <item value="the most recent _tagged_ version of all the EaselJS classes." />
       <item value="rollover" />
       <item value="this set makes it so the stage only re-renders when an event handler indicates a change has happened." />
-      <item value="tick" />
     </histories>
     <option name="languageScores">
       <map>
