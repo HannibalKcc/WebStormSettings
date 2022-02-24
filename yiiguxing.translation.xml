@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="406" />
+    <option name="newTranslationDialogWidth" value="404" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="写真" />
       <item value="用户主动操作" />
       <item value="用户主动" />
       <item value="主动" />
@@ -53,12 +54,11 @@
       <item value="Power of two textures smooth better, but we don't need full resolution either" />
       <item value="hide Distractor" />
       <item value="using &quot;on&quot; binds the listener to the scope of the currentTarget by default in this case that means it executes in the scope of the button." />
-      <item value="This directory contains compressed versions of the EaselJS library, including the most recent tagged release and the in-progress NEXT release. Both combined and minified versions of the library are included. The former being useful for debugging, and the latter for deployment. You can also link to the libraries on the [CreateJS CDN](http:code.createjs.com), to benefit from faster load times and shared caching across sites." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="275" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
