@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="precision" />
       <item value="写真" />
       <item value="用户主动操作" />
       <item value="用户主动" />
@@ -53,12 +54,11 @@
       <item value="Opaque" />
       <item value="Power of two textures smooth better, but we don't need full resolution either" />
       <item value="hide Distractor" />
-      <item value="using &quot;on&quot; binds the listener to the scope of the currentTarget by default in this case that means it executes in the scope of the button." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
