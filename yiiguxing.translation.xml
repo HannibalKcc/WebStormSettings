@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="allow Synthetic Default Imports" />
       <item value="Scatter" />
       <item value="Because the content of a Bitmap is already in a simple format, cache is unnecessary for Bitmap instances. You should &lt;b&gt;not&lt;b&gt; cache Bitmap instances as it can degrade performance." />
       <item value="format" />
@@ -53,12 +54,11 @@
       <item value="paper" />
       <item value="mode" />
       <item value="Potentially invalid reference access to a class field via 'this.' of a nested function" />
-      <item value="res" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644203697619" />
+    <option name="lastTrimTime" value="1645947548842" />
   </component>
 </application>
