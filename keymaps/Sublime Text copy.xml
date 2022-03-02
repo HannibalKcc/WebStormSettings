@@ -81,6 +81,20 @@
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="StartStopMacroRecording" />
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
+  <action id="ToggleBookmark6" />
+  <action id="ToggleBookmark7" />
+  <action id="ToggleBookmark8" />
+  <action id="ToggleBookmark9" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
