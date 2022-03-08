@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="precision" />
       <item value="占比" />
       <item value="占有比" />
       <item value="头像" />
@@ -20,7 +21,6 @@
       <item value="反" />
       <item value="反宣" />
       <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code" />
-      <item value="precision" />
       <item value="写真" />
       <item value="用户主动操作" />
       <item value="用户主动" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
