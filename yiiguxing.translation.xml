@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Period View" />
+      <item value="Period" />
       <item value="tint" />
       <item value="厂牌" />
       <item value="评估" />
@@ -52,13 +54,11 @@
       <item value="身份" />
       <item value="议题" />
       <item value="slug" />
-      <item value="const isPermission = await userInfoHelper.checkPermission({ slug: 'login' });" />
-      <item value="rec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
