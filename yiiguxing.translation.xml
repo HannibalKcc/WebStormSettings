@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="390" />
+    <option name="newTranslationDialogWidth" value="388" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="厂牌" />
+      <item value="评估" />
       <item value="precision" />
       <item value="占比" />
       <item value="占有比" />
@@ -52,13 +54,11 @@
       <item value="const isPermission = await userInfoHelper.checkPermission({ slug: 'login' });" />
       <item value="rec" />
       <item value="Interface" />
-      <item value="is Dirty" />
-      <item value="Ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
