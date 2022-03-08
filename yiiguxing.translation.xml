@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="tint" />
       <item value="厂牌" />
       <item value="评估" />
       <item value="precision" />
@@ -53,7 +54,6 @@
       <item value="slug" />
       <item value="const isPermission = await userInfoHelper.checkPermission({ slug: 'login' });" />
       <item value="rec" />
-      <item value="Interface" />
     </histories>
     <option name="languageScores">
       <map>
