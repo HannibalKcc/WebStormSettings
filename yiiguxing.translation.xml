@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="392" />
+    <option name="newTranslationDialogWidth" value="390" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="占比" />
+      <item value="占有比" />
       <item value="头像" />
       <item value="专辑" />
       <item value="环比" />
@@ -52,13 +54,11 @@
       <item value="Interface" />
       <item value="is Dirty" />
       <item value="Ratio" />
-      <item value="Scatter" />
-      <item value="Because the content of a Bitmap is already in a simple format, cache is unnecessary for Bitmap instances. You should &lt;b&gt;not&lt;b&gt; cache Bitmap instances as it can degrade performance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
