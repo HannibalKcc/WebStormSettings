@@ -41,6 +41,7 @@
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintingore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
