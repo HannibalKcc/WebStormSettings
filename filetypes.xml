@@ -2,14 +2,17 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="EnergyFullDialog" type="AUTO_DETECTED" />
+      <mapping pattern="ConfigProvider" type="AUTO_DETECTED" />
       <mapping pattern="FontList" type="AUTO_DETECTED" />
       <mapping pattern="tableConfig" type="AUTO_DETECTED" />
       <mapping pattern="routes" type="AUTO_DETECTED" />
+      <mapping pattern="router" type="AUTO_DETECTED" />
       <mapping pattern="LogoConfigPanelMenu" type="AUTO_DETECTED" />
       <mapping pattern="eventBus" type="AUTO_DETECTED" />
       <mapping pattern="Dialog123" type="AUTO_DETECTED" />
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
+      <mapping pattern="userExtraInfo" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
       <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
       <mapping pattern="StorageCollection" type="AUTO_DETECTED" />
@@ -38,6 +41,7 @@
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintingore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

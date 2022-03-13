@@ -1,73 +1,74 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="418" />
+    <option name="newTranslationDialogWidth" value="388" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="allow Synthetic Default Imports" />
-      <item value="Scatter" />
-      <item value="Because the content of a Bitmap is already in a simple format, cache is unnecessary for Bitmap instances. You should &lt;b&gt;not&lt;b&gt; cache Bitmap instances as it can degrade performance." />
-      <item value="format" />
-      <item value="Optional data that is passed to graphics command exec methods. When called from a Shape instance, the shape passes itself as the data parameter. This can be used by custom graphic commands to insert contextual data." />
-      <item value="instructions" />
-      <item value="replace Internal" />
-      <item value="so don't attempt to draw a GL only Texture into a 2D context" />
-      <item value="occur" />
-      <item value="Please note that shape-to-shape collision is not currently supported by EaselJS." />
-      <item value="Tests whether the display object intersects the specified point in local coordinates (ie. draws a pixel with alpha &gt; 0 at the specified position). This ignores the alpha, shadow, hitArea, mask, and compositeOperation of the display object." />
-      <item value="intersects" />
-      <item value="rect" />
-      <item value="Indicates whether the mouse is currently within the bounds of the canvas." />
-      <item value="Opaque" />
-      <item value="Power of two textures smooth better, but we don't need full resolution either" />
-      <item value="hide Distractor" />
-      <item value="using &quot;on&quot; binds the listener to the scope of the currentTarget by default in this case that means it executes in the scope of the button." />
-      <item value="This directory contains compressed versions of the EaselJS library, including the most recent tagged release and the in-progress NEXT release. Both combined and minified versions of the library are included. The former being useful for debugging, and the latter for deployment. You can also link to the libraries on the [CreateJS CDN](http:code.createjs.com), to benefit from faster load times and shared caching across sites." />
-      <item value="Note that previous versions also had a webgl library, but it has been replaced by `StageGL`, which is included in the minified source." />
-      <item value="recent" />
-      <item value="contains the _latest_ EaselJS classes." />
-      <item value="the most recent _tagged_ version of all the EaselJS classes." />
-      <item value="rollover" />
-      <item value="this set makes it so the stage only re-renders when an event handler indicates a change has happened." />
-      <item value="tick" />
-      <item value="daisies" />
-      <item value="populate" />
-      <item value="Graphics" />
-      <item value="broadcast" />
-      <item value="throttle" />
-      <item value="Panel" />
+      <item value="with Credentials" />
+      <item value="Uninitialized" />
+      <item value="Period View" />
+      <item value="Period" />
+      <item value="tint" />
+      <item value="厂牌" />
+      <item value="评估" />
+      <item value="precision" />
+      <item value="占比" />
+      <item value="占有比" />
+      <item value="头像" />
+      <item value="专辑" />
+      <item value="环比" />
+      <item value="同比" />
       <item value="intrinsic" />
-      <item value="lodash" />
-      <item value="parenthesized" />
-      <item value="Pattern" />
-      <item value="Synthetic" />
-      <item value="注册" />
-      <item value="未知" />
-      <item value="冻结的" />
-      <item value="冻结" />
-      <item value="frozen" />
-      <item value="slug" />
-      <item value="model" />
-      <item value="modal" />
-      <item value="default Reflow" />
-      <item value="Reat" />
-      <item value="paper" />
-      <item value="mode" />
-      <item value="Potentially invalid reference access to a class field via 'this.' of a nested function" />
+      <item value="子类" />
+      <item value="z" />
+      <item value="权限" />
+      <item value="监控" />
+      <item value="折叠" />
+      <item value="反选" />
+      <item value="反" />
+      <item value="反宣" />
+      <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code" />
+      <item value="写真" />
+      <item value="用户主动操作" />
+      <item value="用户主动" />
+      <item value="主动" />
+      <item value="world" />
+      <item value="wor" />
+      <item value="word" />
+      <item value="升职" />
+      <item value="Model" />
+      <item value="Modal" />
+      <item value="歌词" />
+      <item value="l" />
+      <item value="contorl" />
+      <item value="stretch" />
+      <item value="guide&#10;" />
+      <item value="opacity" />
+      <item value="opticy&#10;" />
+      <item value="半透明&#10;" />
+      <item value="透明&#10;" />
+      <item value="透明度&#10;" />
+      <item value="ReferenceMaterial" />
+      <item value=" To have some of your &quot;node_modules&quot; files transformed, you can specify a custom &quot;transformIgnorePatterns&quot; in your config.&#10;" />
+      <item value="as-is" />
+      <item value="疑惑" />
+      <item value="declare" />
+      <item value="身份" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645947548842" />
+    <option name="lastTrimTime" value="1646653170201" />
   </component>
 </application>
