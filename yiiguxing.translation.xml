@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="歌单" />
       <item value="with Credentials" />
       <item value="Uninitialized" />
       <item value="Period View" />
@@ -53,7 +54,6 @@
       <item value="as-is" />
       <item value="疑惑" />
       <item value="declare" />
-      <item value="身份" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646653170201" />
+    <option name="lastTrimTime" value="1647489112369" />
   </component>
 </application>
