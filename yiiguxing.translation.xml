@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="chain" />
       <item value="百分比" />
       <item value="bullet" />
       <item value="歌单" />
@@ -53,12 +54,11 @@
       <item value="透明度&#10;" />
       <item value="ReferenceMaterial" />
       <item value=" To have some of your &quot;node_modules&quot; files transformed, you can specify a custom &quot;transformIgnorePatterns&quot; in your config.&#10;" />
-      <item value="as-is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ESTONIAN" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647489112369" />
+    <option name="lastTrimTime" value="1647928412544" />
   </component>
 </application>
