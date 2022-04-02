@@ -57,6 +57,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -93,6 +94,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
@@ -103,7 +105,7 @@
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <option name="TERNARY_OPERATION_WRAP" value="2" />
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
