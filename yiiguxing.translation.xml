@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="384" />
+    <option name="newTranslationDialogWidth" value="380" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="转盘" />
+      <item value="翻牌" />
+      <item value="翻" />
+      <item value="翻拍" />
       <item value="slot" />
       <item value="精度" />
       <item value="进度" />
@@ -50,10 +54,6 @@
       <item value="歌词" />
       <item value="l" />
       <item value="contorl" />
-      <item value="stretch" />
-      <item value="guide&#10;" />
-      <item value="opacity" />
-      <item value="opticy&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648522399357" />
+    <option name="lastTrimTime" value="1649403470753" />
   </component>
 </application>
