@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="378" />
+    <option name="newTranslationDialogWidth" value="376" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="推荐" />
+      <item value="福利" />
       <item value="开关" />
       <item value="小说" />
       <item value="lottery" />
@@ -52,8 +54,6 @@
       <item value="用户主动操作" />
       <item value="用户主动" />
       <item value="主动" />
-      <item value="world" />
-      <item value="wor" />
     </histories>
     <option name="languageScores">
       <map>
