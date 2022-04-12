@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="376" />
+    <option name="newTranslationDialogWidth" value="374" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="签" />
+      <item value="派送" />
+      <item value="送" />
+      <item value="送礼" />
+      <item value="song" />
       <item value="reward" />
       <item value="推荐" />
       <item value="福利" />
@@ -49,16 +54,11 @@
       <item value="折叠" />
       <item value="反选" />
       <item value="反" />
-      <item value="反宣" />
-      <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code" />
-      <item value="写真" />
-      <item value="用户主动操作" />
-      <item value="用户主动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
