@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="370" />
+    <option name="newTranslationDialogWidth" value="368" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="推荐" />
       <item value="问号" />
       <item value="奖池" />
       <item value="签" />
@@ -12,7 +13,6 @@
       <item value="送礼" />
       <item value="song" />
       <item value="reward" />
-      <item value="推荐" />
       <item value="福利" />
       <item value="开关" />
       <item value="小说" />

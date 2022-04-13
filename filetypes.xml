@@ -5,6 +5,7 @@
       <mapping pattern="ColorSelect" type="AUTO_DETECTED" />
       <mapping pattern="ConfigProvider" type="AUTO_DETECTED" />
       <mapping pattern="FontList" type="AUTO_DETECTED" />
+      <mapping pattern="SectionRecommand" type="AUTO_DETECTED" />
       <mapping pattern="tableConfig" type="AUTO_DETECTED" />
       <mapping pattern="routes" type="AUTO_DETECTED" />
       <mapping pattern="router" type="AUTO_DETECTED" />
