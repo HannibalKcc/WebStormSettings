@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="专辑" />
       <item value="DEPRACTED" />
       <item value="novel" />
       <item value="活动规则" />
@@ -51,7 +52,6 @@
       <item value="占比" />
       <item value="占有比" />
       <item value="头像" />
-      <item value="专辑" />
       <item value="环比" />
       <item value="同比" />
     </histories>
