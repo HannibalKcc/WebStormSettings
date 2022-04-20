@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="360" />
+    <option name="newTranslationDialogWidth" value="358" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="彩带" />
       <item value="录制" />
       <item value="," />
       <item value="下次一定" />
@@ -16,7 +17,6 @@
       <item value="活动规则" />
       <item value="活动" />
       <item value="渐变" />
-      <item value="彩带" />
       <item value="推荐" />
       <item value="问号" />
       <item value="奖池" />
