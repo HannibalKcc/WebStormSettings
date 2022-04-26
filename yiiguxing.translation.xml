@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="358" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="内部" />
       <item value="targe" />
       <item value="Period View" />
       <item value="&quot;oneOf&quot; will traverse all following loaders until one will match the requirements. When no loader matches it will fall back to the &quot;file&quot; loader at the end of the loader list." />
@@ -53,7 +54,6 @@
       <item value="Uninitialized" />
       <item value="Period" />
       <item value="tint" />
-      <item value="厂牌" />
     </histories>
     <option name="languageScores">
       <map>
