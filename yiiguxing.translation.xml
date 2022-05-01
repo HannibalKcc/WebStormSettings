@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="blink" />
       <item value="Dashboard &amp; analyzer components" />
       <item value="addon" />
       <item value="Before starting a local cli-ui instance, consider following the [contributing guide](https:github.comvuejsvue-cliblobdev.githubCONTRIBUTING.md) in order to download all required dependencies of vue-cli's packages." />
@@ -53,12 +54,11 @@
       <item value="Credentials" />
       <item value="歌单" />
       <item value="chain" />
-      <item value="百分比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
