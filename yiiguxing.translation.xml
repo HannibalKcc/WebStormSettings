@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Dashboard &amp; analyzer components" />
+      <item value="addon" />
+      <item value="Before starting a local cli-ui instance, consider following the [contributing guide](https:github.comvuejsvue-cliblobdev.githubCONTRIBUTING.md) in order to download all required dependencies of vue-cli's packages." />
       <item value="预告" />
       <item value="Silence" />
       <item value="内部" />
@@ -51,14 +54,11 @@
       <item value="歌单" />
       <item value="chain" />
       <item value="百分比" />
-      <item value="bullet" />
-      <item value="with Credentials" />
-      <item value="Uninitialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650872310528" />
+    <option name="lastTrimTime" value="1651370584907" />
   </component>
 </application>
