@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="354" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="开关" />
-      <item value="toggle" />
-      <item value="Idle" />
-      <item value="光标" />
+      <item value="blink" />
+      <item value="Dashboard &amp; analyzer components" />
+      <item value="addon" />
+      <item value="Before starting a local cli-ui instance, consider following the [contributing guide](https:github.comvuejsvue-cliblobdev.githubCONTRIBUTING.md) in order to download all required dependencies of vue-cli's packages." />
       <item value="预告" />
       <item value="Silence" />
       <item value="内部" />
@@ -37,6 +37,7 @@
       <item value="song" />
       <item value="reward" />
       <item value="福利" />
+      <item value="开关" />
       <item value="小说" />
       <item value="lottery" />
       <item value="noop" />
@@ -53,7 +54,6 @@
       <item value="Credentials" />
       <item value="歌单" />
       <item value="chain" />
-      <item value="百分比" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651309801348" />
+    <option name="lastTrimTime" value="1651370584907" />
   </component>
 </application>
