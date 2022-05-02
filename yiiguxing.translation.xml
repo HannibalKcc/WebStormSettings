@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="开关" />
+      <item value="toggle" />
+      <item value="Idle" />
       <item value="光标" />
       <item value="预告" />
       <item value="Silence" />
@@ -34,7 +37,6 @@
       <item value="song" />
       <item value="reward" />
       <item value="福利" />
-      <item value="开关" />
       <item value="小说" />
       <item value="lottery" />
       <item value="noop" />
@@ -52,13 +54,11 @@
       <item value="歌单" />
       <item value="chain" />
       <item value="百分比" />
-      <item value="bullet" />
-      <item value="with Credentials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
