@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="356" />
+    <option name="newTranslationDialogWidth" value="354" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="体验" />
       <item value="blink" />
       <item value="Dashboard &amp; analyzer components" />
       <item value="addon" />
@@ -53,12 +54,11 @@
       <item value="inclusive" />
       <item value="Credentials" />
       <item value="歌单" />
-      <item value="chain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
