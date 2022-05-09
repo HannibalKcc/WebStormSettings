@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="专辑" />
       <item value="依赖注入" />
       <item value="依赖" />
       <item value="闪屏" />
@@ -25,7 +26,6 @@
       <item value="下次" />
       <item value="Valid" />
       <item value="模型" />
-      <item value="专辑" />
       <item value="DEPRACTED" />
       <item value="novel" />
       <item value="活动规则" />
