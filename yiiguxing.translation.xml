@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="趋势" />
       <item value="验证码" />
       <item value="avatar" />
       <item value="演出" />
@@ -53,12 +54,11 @@
       <item value="转盘" />
       <item value="翻牌" />
       <item value="翻" />
-      <item value="翻拍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651831760898" />
+    <option name="lastTrimTime" value="1652347195313" />
   </component>
 </application>
