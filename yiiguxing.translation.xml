@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Pendant" />
       <item value="等于" />
       <item value="These are the reasonable defaults supported by the Node ecosystem. We also include JSX as a common component filename extension to support some tools, although we do not recommend using it, see:" />
       <item value="指标" />
@@ -53,14 +54,14 @@
       <item value="lottery" />
       <item value="noop" />
       <item value="书签" />
-      <item value="数钱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
+        <entry key="CHINESE" value="331" />
         <entry key="ENGLISH" value="331" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
+        <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -70,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652347195313" />
+    <option name="lastTrimTime" value="1653289562254" />
   </component>
 </application>
