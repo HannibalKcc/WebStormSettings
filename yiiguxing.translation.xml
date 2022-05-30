@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="演示" />
       <item value="generalize" />
       <item value="Pendant" />
       <item value="等于" />
@@ -53,7 +54,6 @@
       <item value="开关" />
       <item value="小说" />
       <item value="lottery" />
-      <item value="noop" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653289562254" />
+    <option name="lastTrimTime" value="1653912659475" />
   </component>
 </application>
