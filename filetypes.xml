@@ -15,6 +15,7 @@
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="userExtraInfo" type="AUTO_DETECTED" />
+      <mapping pattern="process_list" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
       <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
       <mapping pattern="StorageCollection" type="AUTO_DETECTED" />

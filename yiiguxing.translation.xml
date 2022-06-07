@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogX" value="2735" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="流程" />
       <item value="刻度" />
       <item value="等于" />
       <item value="These are the reasonable defaults supported by the Node ecosystem. We also include JSX as a common component filename extension to support some tools, although we do not recommend using it, see:" />
@@ -51,12 +54,11 @@
       <item value="小说" />
       <item value="lottery" />
       <item value="noop" />
-      <item value="书签" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
@@ -68,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653397471129" />
+    <option name="lastTrimTime" value="1654585159449" />
   </component>
 </application>
