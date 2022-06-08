@@ -15,6 +15,7 @@
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="userExtraInfo" type="AUTO_DETECTED" />
+      <mapping pattern="process_list" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
       <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
       <mapping pattern="StorageCollection" type="AUTO_DETECTED" />
@@ -42,6 +43,7 @@
       <mapping pattern="appContext" type="AUTO_DETECTED" />
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
+      <mapping pattern="card_deraction" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".eslintingore" type="PLAIN_TEXT" />
