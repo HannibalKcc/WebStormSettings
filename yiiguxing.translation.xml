@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="相关" />
+      <item value="关联" />
       <item value="alternate" />
       <item value="审批" />
       <item value="装饰" />
@@ -52,13 +54,11 @@
       <item value="送" />
       <item value="送礼" />
       <item value="song" />
-      <item value="reward" />
-      <item value="福利" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
