@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="350" />
-    <option name="newTranslationDialogX" value="2735" />
-    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="字幕" />
       <item value="alternate" />
       <item value="审批" />
       <item value="装饰" />
@@ -53,7 +52,6 @@
       <item value="送礼" />
       <item value="song" />
       <item value="reward" />
-      <item value="福利" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654585159449" />
+    <option name="lastTrimTime" value="1655042594496" />
   </component>
 </application>
