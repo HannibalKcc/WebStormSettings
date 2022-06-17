@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="350" />
     <histories>
+      <item value="primitive" />
       <item value="字幕" />
       <item value="alternate" />
       <item value="审批" />
@@ -51,11 +52,10 @@
       <item value="送" />
       <item value="送礼" />
       <item value="song" />
-      <item value="reward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
+        <entry key="CHINESE" value="336" />
         <entry key="ENGLISH" value="336" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
