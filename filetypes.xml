@@ -36,6 +36,7 @@
       <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="BadNews" type="AUTO_DETECTED" />
       <mapping pattern="middle" type="AUTO_DETECTED" />
+      <mapping pattern="exchangePx" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="imgUrl" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />

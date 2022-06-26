@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="350" />
+    <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogX" value="2735" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="抽奖" />
+      <item value="礼包" />
+      <item value="fallback" />
+      <item value="permanent." />
+      <item value="primitive" />
       <item value="字幕" />
       <item value="alternate" />
       <item value="审批" />
@@ -47,16 +54,11 @@
       <item value="问号" />
       <item value="奖池" />
       <item value="签" />
-      <item value="派送" />
-      <item value="送" />
-      <item value="送礼" />
-      <item value="song" />
-      <item value="reward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="338" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
@@ -68,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655042594496" />
+    <option name="lastTrimTime" value="1655711628119" />
   </component>
 </application>
