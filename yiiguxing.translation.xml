@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="352" />
     <histories>
+      <item value="Returns a Big number whose value is the value of this Big number times n - alias for .times()." />
       <item value="后缀" />
       <item value="先到先得" />
       <item value="主播" />
@@ -51,12 +52,11 @@
       <item value="novel" />
       <item value="活动规则" />
       <item value="活动" />
-      <item value="渐变" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
