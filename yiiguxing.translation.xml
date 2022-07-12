@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Compatible" />
       <item value="internal" />
       <item value="内部使用" />
       <item value="内部" />
@@ -53,12 +54,11 @@
       <item value="下次一定" />
       <item value="下次" />
       <item value="Valid" />
-      <item value="模型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="DUTCH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657100935828" />
+    <option name="lastTrimTime" value="1657607338166" />
   </component>
 </application>
