@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogX" value="2735" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="noop" />
-      <item value="protocol" />
+      <item value="Compatible" />
+      <item value="internal" />
+      <item value="内部使用" />
+      <item value="内部" />
+      <item value="内不是" />
+      <item value="ambiguous" />
+      <item value="Returns a Big number whose value is the value of this Big number times n - alias for .times()." />
+      <item value="后缀" />
       <item value="先到先得" />
       <item value="主播" />
       <item value="unintentional," />
@@ -37,7 +45,6 @@
       <item value="Before starting a local cli-ui instance, consider following the [contributing guide](https:github.comvuejsvue-cliblobdev.githubCONTRIBUTING.md) in order to download all required dependencies of vue-cli's packages." />
       <item value="预告" />
       <item value="Silence" />
-      <item value="内部" />
       <item value="targe" />
       <item value="Period View" />
       <item value="&quot;oneOf&quot; will traverse all following loaders until one will match the requirements. When no loader matches it will fall back to the &quot;file&quot; loader at the end of the loader list." />
@@ -47,19 +54,13 @@
       <item value="下次一定" />
       <item value="下次" />
       <item value="Valid" />
-      <item value="模型" />
-      <item value="DEPRACTED" />
-      <item value="novel" />
-      <item value="活动规则" />
-      <item value="活动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="344" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
-        <entry key="AFRIKAANS" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -69,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657100935828" />
+    <option name="lastTrimTime" value="1657607338166" />
   </component>
 </application>
