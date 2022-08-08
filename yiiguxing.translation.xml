@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="exceeded" />
       <item value="interactively" />
       <item value="preid" />
       <item value="persist Version" />
@@ -53,12 +54,11 @@
       <item value="avatar" />
       <item value="演出" />
       <item value="专辑" />
-      <item value="依赖注入" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659340153183" />
+    <option name="lastTrimTime" value="1659930482791" />
   </component>
 </application>
