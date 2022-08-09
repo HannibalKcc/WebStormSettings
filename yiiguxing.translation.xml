@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Ellipsis" />
       <item value="exceeded" />
       <item value="collapse" />
       <item value="interactively" />
@@ -53,11 +54,10 @@
       <item value="趋势" />
       <item value="验证码" />
       <item value="avatar" />
-      <item value="演出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
+        <entry key="CHINESE" value="354" />
         <entry key="ENGLISH" value="354" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
