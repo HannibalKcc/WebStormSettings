@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="勾" />
+      <item value="箭头" />
       <item value="撤回" />
       <item value="草稿" />
       <item value="caog" />
@@ -52,13 +54,11 @@
       <item value="抽奖" />
       <item value="礼包" />
       <item value="fallback" />
-      <item value="permanent." />
-      <item value="primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="364" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
