@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="撤回" />
+      <item value="草稿" />
+      <item value="caog" />
+      <item value="依赖" />
       <item value="审查" />
       <item value="方案" />
       <item value="deploy" />
@@ -50,15 +54,11 @@
       <item value="fallback" />
       <item value="permanent." />
       <item value="primitive" />
-      <item value="字幕" />
-      <item value="alternate" />
-      <item value="审批" />
-      <item value="装饰" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="363" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
