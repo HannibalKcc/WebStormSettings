@@ -8,5 +8,11 @@
       <typing text-keycode="32:0">&amp;#x20;</typing>
       <typing text-keycode="84:0;79:0;68:0;79:0">TODO</typing>
     </macro>
+    <macro name="foo">
+      <action id="EditorEnter" />
+      <typing text-keycode="47:0;47:0;32:0;49:0;50:0;51:0">//&amp;#x20;123</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="47:0;47:0;32:0;52:0;53:0;54:0">//&amp;#x20;456</typing>
+    </macro>
   </component>
 </application>
