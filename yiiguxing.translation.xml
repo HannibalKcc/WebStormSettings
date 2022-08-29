@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Line comments are not included in standard but nonetheless allowed" />
       <item value="Plain" />
       <item value="कम्पेलेते" />
       <item value="compelete" />
@@ -53,11 +54,10 @@
       <item value="zhuan" />
       <item value="流程" />
       <item value="刻度" />
-      <item value="等于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
+        <entry key="CHINESE" value="358" />
         <entry key="ENGLISH" value="358" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660487399269" />
+    <option name="lastTrimTime" value="1661743999145" />
   </component>
 </application>
