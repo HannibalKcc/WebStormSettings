@@ -3,5 +3,6 @@
     <option name="signinNotificationShown" value="true" />
     <option name="inlayTextColor" value="#5c4545" />
     <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
   </component>
 </application>
