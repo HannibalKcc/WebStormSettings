@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="驳回" />
+      <item value="不通过" />
+      <item value="通过" />
       <item value="Line comments are not included in standard but nonetheless allowed" />
       <item value="Plain" />
       <item value="कम्पेलेते" />
@@ -51,14 +54,11 @@
       <item value="alternate" />
       <item value="审批" />
       <item value="装饰" />
-      <item value="zhuan" />
-      <item value="流程" />
-      <item value="刻度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="360" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
