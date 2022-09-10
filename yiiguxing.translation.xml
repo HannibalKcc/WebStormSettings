@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="internal" />
       <item value="冒号" />
       <item value="驳回" />
       <item value="不通过" />
@@ -36,7 +37,6 @@
       <item value="斜边" />
       <item value="Totas" />
       <item value="Compatible" />
-      <item value="internal" />
       <item value="内部使用" />
       <item value="内部" />
       <item value="内不是" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
