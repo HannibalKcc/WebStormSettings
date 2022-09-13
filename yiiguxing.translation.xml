@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="persist" />
       <item value="internal" />
       <item value="冒号" />
       <item value="驳回" />
@@ -53,11 +54,10 @@
       <item value="primitive" />
       <item value="字幕" />
       <item value="alternate" />
-      <item value="审批" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
+        <entry key="CHINESE" value="361" />
         <entry key="ENGLISH" value="361" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
