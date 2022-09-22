@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="panel" />
       <item value="盈亏" />
       <item value="persist" />
       <item value="internal" />
@@ -53,11 +54,10 @@
       <item value="fallback" />
       <item value="permanent." />
       <item value="primitive" />
-      <item value="字幕" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
+        <entry key="CHINESE" value="362" />
         <entry key="ENGLISH" value="361" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663123867072" />
+    <option name="lastTrimTime" value="1663838984998" />
   </component>
 </application>
