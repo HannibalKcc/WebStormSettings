@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="visiable" />
+      <item value="vi" />
+      <item value="可" />
+      <item value="可视化" />
       <item value="serializable" />
       <item value="panel" />
       <item value="盈亏" />
@@ -32,7 +36,6 @@
       <item value="交叉" />
       <item value="较差" />
       <item value="可视" />
-      <item value="可视化" />
       <item value="不可视" />
       <item value="不可" />
       <item value="不可见的" />
@@ -51,13 +54,10 @@
       <item value="主播" />
       <item value="unintentional," />
       <item value="抽奖" />
-      <item value="礼包" />
-      <item value="fallback" />
-      <item value="permanent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
+        <entry key="CHINESE" value="363" />
         <entry key="ENGLISH" value="362" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
