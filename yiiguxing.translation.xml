@@ -4,11 +4,11 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="debounce" />
       <item value="const options = program.opts();" />
       <item value="derived" />
       <item value="评论" />
       <item value="Prevents users from importing files from outside of src (or node_modules). This often causes confusion because we only process files within src with babel. To fix this, we prevent you from importing files out of src -- if you'd like to, please link the files into your node_modules and let module-resolution kick in. Make sure your source files are compiled, as they will not be processed in any way." />
-      <item value="debounce" />
       <item value="visiable" />
       <item value="vi" />
       <item value="可" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
