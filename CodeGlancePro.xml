@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGlance Pro">
+    <option name="hoveringToShowScrollBar" value="true" />
     <option name="width" value="132" />
   </component>
 </application>
