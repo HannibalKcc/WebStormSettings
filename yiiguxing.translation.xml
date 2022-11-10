@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Allocates a new buffer of {size} octets." />
+      <item value="Allocates" />
       <item value="ellipse" />
       <item value="debounce" />
       <item value="const options = program.opts();" />
@@ -52,13 +54,11 @@
       <item value="Compatible" />
       <item value="内部使用" />
       <item value="内部" />
-      <item value="内不是" />
-      <item value="ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
