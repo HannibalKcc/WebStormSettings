@@ -207,4 +207,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="useLayoutEffect" value="useLayoutEffect(() =&gt; {&#10;  return () =&gt; {&#10;    $effect$&#10;  };&#10;}, [$input$]);&#10;$END$" description="useLayoutEffect" toReformat="true" toShortenFQNames="true">
+    <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
+    <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
