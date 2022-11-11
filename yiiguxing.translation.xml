@@ -1,66 +1,69 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="386" />
+    <option name="newTranslationDialogWidth" value="348" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="百分比" />
-      <item value="bullet" />
-      <item value="歌单" />
-      <item value="with Credentials" />
-      <item value="Uninitialized" />
-      <item value="Period View" />
-      <item value="Period" />
-      <item value="tint" />
-      <item value="厂牌" />
-      <item value="评估" />
-      <item value="precision" />
-      <item value="占比" />
-      <item value="占有比" />
-      <item value="头像" />
-      <item value="专辑" />
-      <item value="环比" />
-      <item value="同比" />
+      <item value="debounce" />
+      <item value="const options = program.opts();" />
+      <item value="derived" />
+      <item value="评论" />
+      <item value="Prevents users from importing files from outside of src (or node_modules). This often causes confusion because we only process files within src with babel. To fix this, we prevent you from importing files out of src -- if you'd like to, please link the files into your node_modules and let module-resolution kick in. Make sure your source files are compiled, as they will not be processed in any way." />
+      <item value="visiable" />
+      <item value="vi" />
+      <item value="可" />
+      <item value="可视化" />
+      <item value="serializable" />
+      <item value="panel" />
+      <item value="盈亏" />
+      <item value="persist" />
+      <item value="internal" />
+      <item value="冒号" />
+      <item value="驳回" />
+      <item value="不通过" />
+      <item value="通过" />
+      <item value="Line comments are not included in standard but nonetheless allowed" />
+      <item value="Plain" />
+      <item value="कम्पेलेते" />
+      <item value="compelete" />
+      <item value="com" />
+      <item value="完整" />
+      <item value="Ellipsis" />
+      <item value="exceeded" />
+      <item value="collapse" />
+      <item value="interactively" />
+      <item value="preid" />
+      <item value="persist Version" />
+      <item value="retrieve Tag Version" />
+      <item value="porcelain" />
       <item value="intrinsic" />
-      <item value="子类" />
-      <item value="z" />
-      <item value="权限" />
-      <item value="监控" />
-      <item value="折叠" />
-      <item value="反选" />
-      <item value="反" />
-      <item value="反宣" />
-      <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code" />
-      <item value="写真" />
-      <item value="用户主动操作" />
-      <item value="用户主动" />
-      <item value="主动" />
-      <item value="world" />
-      <item value="wor" />
-      <item value="word" />
-      <item value="升职" />
-      <item value="Model" />
-      <item value="Modal" />
-      <item value="歌词" />
-      <item value="l" />
-      <item value="contorl" />
-      <item value="stretch" />
-      <item value="guide&#10;" />
-      <item value="opacity" />
-      <item value="opticy&#10;" />
-      <item value="半透明&#10;" />
-      <item value="透明&#10;" />
-      <item value="透明度&#10;" />
-      <item value="ReferenceMaterial" />
-      <item value=" To have some of your &quot;node_modules&quot; files transformed, you can specify a custom &quot;transformIgnorePatterns&quot; in your config.&#10;" />
-      <item value="as-is" />
+      <item value="Intrinsic" />
+      <item value="交叉" />
+      <item value="较差" />
+      <item value="可视" />
+      <item value="不可视" />
+      <item value="不可" />
+      <item value="不可见的" />
+      <item value="可视内容" />
+      <item value="Unary" />
+      <item value="斜边" />
+      <item value="Totas" />
+      <item value="Compatible" />
+      <item value="内部使用" />
+      <item value="内部" />
+      <item value="内不是" />
+      <item value="ambiguous" />
+      <item value="Returns a Big number whose value is the value of this Big number times n - alias for .times()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
-        <entry key="ESTONIAN" value="2" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="ESTONIAN" value="3" />
+        <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
@@ -69,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647489112369" />
+    <option name="lastTrimTime" value="1665397698676" />
   </component>
 </application>

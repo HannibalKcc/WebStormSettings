@@ -5,6 +5,7 @@
       <mapping pattern="ColorSelect" type="AUTO_DETECTED" />
       <mapping pattern="ConfigProvider" type="AUTO_DETECTED" />
       <mapping pattern="FontList" type="AUTO_DETECTED" />
+      <mapping pattern="SectionRecommand" type="AUTO_DETECTED" />
       <mapping pattern="tableConfig" type="AUTO_DETECTED" />
       <mapping pattern="routes" type="AUTO_DETECTED" />
       <mapping pattern="router" type="AUTO_DETECTED" />
@@ -14,6 +15,7 @@
       <mapping pattern="questionList" type="AUTO_DETECTED" />
       <mapping pattern="energy" type="AUTO_DETECTED" />
       <mapping pattern="userExtraInfo" type="AUTO_DETECTED" />
+      <mapping pattern="process_list" type="AUTO_DETECTED" />
       <mapping pattern="myHook" type="AUTO_DETECTED" />
       <mapping pattern="ballMoveAnimation" type="AUTO_DETECTED" />
       <mapping pattern="StorageCollection" type="AUTO_DETECTED" />
@@ -34,6 +36,7 @@
       <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="BadNews" type="AUTO_DETECTED" />
       <mapping pattern="middle" type="AUTO_DETECTED" />
+      <mapping pattern="exchangePx" type="AUTO_DETECTED" />
       <mapping pattern="ArcText" type="AUTO_DETECTED" />
       <mapping pattern="imgUrl" type="AUTO_DETECTED" />
       <mapping pattern="LeaveSeatConfrim" type="AUTO_DETECTED" />
@@ -41,9 +44,11 @@
       <mapping pattern="appContext" type="AUTO_DETECTED" />
       <mapping pattern="Number2Img" type="AUTO_DETECTED" />
       <mapping pattern="SeatBtn" type="AUTO_DETECTED" />
+      <mapping pattern="card_deraction" type="AUTO_DETECTED" />
       <mapping pattern="Style1" type="AUTO_DETECTED" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".eslintingore" type="PLAIN_TEXT" />
+      <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="react" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
