@@ -14,6 +14,7 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ContextHelp" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
