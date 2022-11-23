@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Juggling a multimodule project over multiple repos is like trying to teach a newborn baby how to ride a bike. Babel follows a monorepo approach, all officially maintained modules are in the same repo. This is quite taboo but let's look at the pros and cons:" />
       <item value="normalize" />
       <item value="coverage" />
       <item value="Allocates a new buffer of {size} octets." />
@@ -53,7 +54,6 @@
       <item value="Unary" />
       <item value="斜边" />
       <item value="Totas" />
-      <item value="Compatible" />
     </histories>
     <option name="languageScores">
       <map>
