@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="normalize" />
       <item value="coverage" />
       <item value="Allocates a new buffer of {size} octets." />
       <item value="Allocates" />
@@ -53,7 +54,6 @@
       <item value="斜边" />
       <item value="Totas" />
       <item value="Compatible" />
-      <item value="内部使用" />
     </histories>
     <option name="languageScores">
       <map>
