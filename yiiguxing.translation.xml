@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="deterministic&#10;topoglogical" />
+      <item value="deterministic&#10;topog" />
+      <item value="deterministic&#10;" />
       <item value="deterministic" />
       <item value="determinis" />
       <item value="intimidating" />
@@ -51,13 +54,10 @@
       <item value="较差" />
       <item value="可视" />
       <item value="不可视" />
-      <item value="不可" />
-      <item value="不可见的" />
-      <item value="可视内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
+        <entry key="CHINESE" value="370" />
         <entry key="ENGLISH" value="369" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668046938638" />
+    <option name="lastTrimTime" value="1669254455128" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
