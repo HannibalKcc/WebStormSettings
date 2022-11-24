@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="348" />
+    <option name="newTranslationDialogWidth" value="352" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="deterministic" />
+      <item value="determinis" />
+      <item value="intimidating" />
       <item value="Juggling a multimodule project over multiple repos is like trying to teach a newborn baby how to ride a bike. Babel follows a monorepo approach, all officially maintained modules are in the same repo. This is quite taboo but let's look at the pros and cons:" />
       <item value="normalize" />
       <item value="coverage" />
@@ -51,13 +54,10 @@
       <item value="不可" />
       <item value="不可见的" />
       <item value="可视内容" />
-      <item value="Unary" />
-      <item value="斜边" />
-      <item value="Totas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
+        <entry key="CHINESE" value="369" />
         <entry key="ENGLISH" value="369" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
@@ -73,5 +73,13 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1668046938638" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20221123001466757" />
+      </app-key>
+    </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
