@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="3" />
         <entry key="GERMAN" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1673862999255" />
+    <option name="lastTrimTime" value="1675302249854" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
