@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Define if we explicitly care that the result not be a property reference. true - Force calls to exclude context. Useful if the value is going to be used as function callee. false - No particular requirements for context of the access. (Default)" />
       <item value="Parsers must be explicitly added to the standalone bundle" />
       <item value="桥" />
       <item value="deterministic&#10;topoglogical" />
@@ -53,7 +54,6 @@
       <item value="intrinsic" />
       <item value="Intrinsic" />
       <item value="交叉" />
-      <item value="较差" />
     </histories>
     <option name="languageScores">
       <map>
