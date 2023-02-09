@@ -3,8 +3,6 @@
     <local-interpreter path="D:/MySetUp/node/node.exe">
       <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="10.12.0" last-modified="1629168770229" />
-    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
   </component>
 </application>
